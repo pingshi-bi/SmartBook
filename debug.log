@@ -1,0 +1,1935 @@
+2021-05-29 13:44:06,192|DEBUG|SuperPage.py:32|
+2021-05-29 13:44:06,192|DEBUG|SuperPage.py:33|[]
+2021-05-29 13:44:06,192|DEBUG|SuperPage.py:32|您好{self.user.realname},您是第{self.user.userid}个读者
+2021-05-29 13:44:06,192|DEBUG|SuperPage.py:33|['{self.user.realname}', '{self.user.userid}']
+2021-05-29 13:44:06,193|DEBUG|SuperPage.py:32|欢迎来到,图书管理系统(SmartBook)
+2021-05-29 13:44:06,193|DEBUG|SuperPage.py:33|[]
+2021-05-29 13:44:06,193|DEBUG|SuperPage.py:32|在册登记图书(300), 借阅图书(5)
+2021-05-29 13:44:06,193|DEBUG|SuperPage.py:33|[]
+2021-05-29 13:44:06,193|DEBUG|SuperPage.py:32|上次登陆: {self.user.last_date}
+2021-05-29 13:44:06,193|DEBUG|SuperPage.py:33|['{self.user.last_date}']
+2021-05-29 13:44:06,193|DEBUG|SuperPage.py:32|
+2021-05-29 13:44:06,193|DEBUG|SuperPage.py:33|[]
+2021-05-29 13:44:06,193|DEBUG|SuperPage.py:58|个人信息(P),图书浏览(L),读者管理(U),借阅清单(S),注销(E)
+2021-05-29 13:44:11,113|DEBUG|SuperPage.py:69|用户输入的命令是: s
+2021-05-29 13:44:11,114|DEBUG|SuperPage.py:84|找到指令:
+2021-05-29 13:44:11,114|DEBUG|SuperPage.py:85|BookActions.book_borrowlist
+2021-05-29 13:44:11,127|INFO|SuperPage.py:91|>>>action:BookActions.book_borrowlist
+2021-05-29 13:44:11,128|INFO|PublicApi.py:68|登陆检查：
+2021-05-29 13:44:11,128|INFO|PublicApi.py:69|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 13:44:11,128|INFO|PublicApi.py:70|<pages.HomePage.HomePage object at 0x00000259B9173790>
+2021-05-29 13:44:11,148|DEBUG|SuperPage.py:32|----借阅清单----
+2021-05-29 13:44:11,148|DEBUG|SuperPage.py:33|[]
+2021-05-29 13:44:11,148|INFO|SuperPage.py:91|>>>action:BookActions.do_borrowlist
+2021-05-29 13:44:11,148|INFO|PublicApi.py:68|登陆检查：
+2021-05-29 13:44:11,148|INFO|PublicApi.py:69|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 13:44:11,148|INFO|PublicApi.py:70|<pages.BorrowListPage.BorrowListPage object at 0x00000259B9705790>
+2021-05-29 13:55:39,461|DEBUG|SuperPage.py:32|
+2021-05-29 13:55:39,461|DEBUG|SuperPage.py:33|[]
+2021-05-29 13:55:39,461|DEBUG|SuperPage.py:32|您好{self.user.realname},您是第{self.user.userid}个读者
+2021-05-29 13:55:39,462|DEBUG|SuperPage.py:33|['{self.user.realname}', '{self.user.userid}']
+2021-05-29 13:55:39,462|DEBUG|SuperPage.py:32|欢迎来到,图书管理系统(SmartBook)
+2021-05-29 13:55:39,462|DEBUG|SuperPage.py:33|[]
+2021-05-29 13:55:39,462|DEBUG|SuperPage.py:32|在册登记图书(300), 借阅图书(5)
+2021-05-29 13:55:39,462|DEBUG|SuperPage.py:33|[]
+2021-05-29 13:55:39,462|DEBUG|SuperPage.py:32|上次登陆: {self.user.last_date}
+2021-05-29 13:55:39,462|DEBUG|SuperPage.py:33|['{self.user.last_date}']
+2021-05-29 13:55:39,462|DEBUG|SuperPage.py:32|
+2021-05-29 13:55:39,462|DEBUG|SuperPage.py:33|[]
+2021-05-29 13:55:39,462|DEBUG|SuperPage.py:58|个人信息(P),图书浏览(L),读者管理(U),借阅清单(S),注销(E)
+2021-05-29 13:55:41,419|DEBUG|SuperPage.py:69|用户输入的命令是: s
+2021-05-29 13:55:41,420|DEBUG|SuperPage.py:84|找到指令:
+2021-05-29 13:55:41,420|DEBUG|SuperPage.py:85|BookActions.book_borrowlist
+2021-05-29 13:55:41,426|INFO|SuperPage.py:91|>>>action:BookActions.book_borrowlist
+2021-05-29 13:55:41,426|INFO|PublicApi.py:68|登陆检查：
+2021-05-29 13:55:41,426|INFO|PublicApi.py:69|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 13:55:41,426|INFO|PublicApi.py:70|<pages.HomePage.HomePage object at 0x000001707E161BE0>
+2021-05-29 13:55:41,446|DEBUG|SuperPage.py:32|----借阅清单----
+2021-05-29 13:55:41,446|DEBUG|SuperPage.py:33|[]
+2021-05-29 13:55:41,446|INFO|SuperPage.py:91|>>>action:BookActions.do_borrowlist
+2021-05-29 13:55:41,446|INFO|PublicApi.py:68|登陆检查：
+2021-05-29 13:55:41,446|INFO|PublicApi.py:69|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 13:55:41,446|INFO|PublicApi.py:70|<pages.BorrowListPage.BorrowListPage object at 0x000001707E0C3790>
+2021-05-29 13:55:41,446|DEBUG|BorrowregModel.py:87|数据文件: D:\PycharmProjects\SmartBook11\models\Borrowreg.dbx
+2021-05-29 13:55:41,447|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook11\models\Bookinfo.dbx
+2021-05-29 13:55:41,447|INFO|BookinfoModel.py:150|SELECT BY ID:
+2021-05-29 13:55:41,447|INFO|BookinfoModel.py:151|Bookinfo:(4,01,《哈利波特》,美·哈利,0,True,admin)
+2021-05-29 13:55:41,447|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook11\models\Bookinfo.dbx
+2021-05-29 13:55:41,447|INFO|BookinfoModel.py:150|SELECT BY ID:
+2021-05-29 13:55:41,447|INFO|BookinfoModel.py:151|Bookinfo:(14,01,《afa》,afafa,0,True,admin)
+2021-05-29 13:56:26,171|DEBUG|SuperPage.py:32|----借阅清单----
+2021-05-29 13:56:26,171|DEBUG|SuperPage.py:33|[]
+2021-05-29 13:56:26,172|INFO|SuperPage.py:91|>>>action:BookActions.do_borrowlist
+2021-05-29 13:56:26,172|INFO|PublicApi.py:68|登陆检查：
+2021-05-29 13:56:26,172|INFO|PublicApi.py:69|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 13:56:26,172|INFO|PublicApi.py:70|<pages.BorrowListPage.BorrowListPage object at 0x000001707E0C3790>
+2021-05-29 13:56:26,172|DEBUG|BorrowregModel.py:87|数据文件: D:\PycharmProjects\SmartBook11\models\Borrowreg.dbx
+2021-05-29 13:56:26,172|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook11\models\Bookinfo.dbx
+2021-05-29 13:56:26,173|INFO|BookinfoModel.py:150|SELECT BY ID:
+2021-05-29 13:56:26,173|INFO|BookinfoModel.py:151|Bookinfo:(4,01,《哈利波特》,美·哈利,0,True,admin)
+2021-05-29 13:56:26,173|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook11\models\Bookinfo.dbx
+2021-05-29 13:56:26,173|INFO|BookinfoModel.py:150|SELECT BY ID:
+2021-05-29 13:56:26,173|INFO|BookinfoModel.py:151|Bookinfo:(14,01,《afa》,afafa,0,True,admin)
+2021-05-29 13:56:26,923|DEBUG|SuperPage.py:32|----借阅清单----
+2021-05-29 13:56:26,923|DEBUG|SuperPage.py:33|[]
+2021-05-29 13:56:26,924|INFO|SuperPage.py:91|>>>action:BookActions.do_borrowlist
+2021-05-29 13:56:26,924|INFO|PublicApi.py:68|登陆检查：
+2021-05-29 13:56:26,924|INFO|PublicApi.py:69|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 13:56:26,924|INFO|PublicApi.py:70|<pages.BorrowListPage.BorrowListPage object at 0x000001707E0C3790>
+2021-05-29 13:56:26,924|DEBUG|BorrowregModel.py:87|数据文件: D:\PycharmProjects\SmartBook11\models\Borrowreg.dbx
+2021-05-29 13:56:26,924|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook11\models\Bookinfo.dbx
+2021-05-29 13:56:26,925|INFO|BookinfoModel.py:150|SELECT BY ID:
+2021-05-29 13:56:26,925|INFO|BookinfoModel.py:151|Bookinfo:(4,01,《哈利波特》,美·哈利,0,True,admin)
+2021-05-29 13:56:26,925|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook11\models\Bookinfo.dbx
+2021-05-29 13:56:26,925|INFO|BookinfoModel.py:150|SELECT BY ID:
+2021-05-29 13:56:26,925|INFO|BookinfoModel.py:151|Bookinfo:(14,01,《afa》,afafa,0,True,admin)
+2021-05-29 13:56:27,651|DEBUG|SuperPage.py:32|----借阅清单----
+2021-05-29 13:56:27,651|DEBUG|SuperPage.py:33|[]
+2021-05-29 13:56:27,651|INFO|SuperPage.py:91|>>>action:BookActions.do_borrowlist
+2021-05-29 13:56:27,651|INFO|PublicApi.py:68|登陆检查：
+2021-05-29 13:56:27,651|INFO|PublicApi.py:69|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 13:56:27,651|INFO|PublicApi.py:70|<pages.BorrowListPage.BorrowListPage object at 0x000001707E0C3790>
+2021-05-29 13:56:27,651|DEBUG|BorrowregModel.py:87|数据文件: D:\PycharmProjects\SmartBook11\models\Borrowreg.dbx
+2021-05-29 13:56:27,652|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook11\models\Bookinfo.dbx
+2021-05-29 13:56:27,652|INFO|BookinfoModel.py:150|SELECT BY ID:
+2021-05-29 13:56:27,652|INFO|BookinfoModel.py:151|Bookinfo:(4,01,《哈利波特》,美·哈利,0,True,admin)
+2021-05-29 13:56:27,652|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook11\models\Bookinfo.dbx
+2021-05-29 13:56:27,652|INFO|BookinfoModel.py:150|SELECT BY ID:
+2021-05-29 13:56:27,652|INFO|BookinfoModel.py:151|Bookinfo:(14,01,《afa》,afafa,0,True,admin)
+2021-05-29 13:56:30,527|DEBUG|SuperPage.py:32|----借阅清单----
+2021-05-29 13:56:30,528|DEBUG|SuperPage.py:33|[]
+2021-05-29 13:56:30,528|INFO|SuperPage.py:91|>>>action:BookActions.do_borrowlist
+2021-05-29 13:56:30,528|INFO|PublicApi.py:68|登陆检查：
+2021-05-29 13:56:30,528|INFO|PublicApi.py:69|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 13:56:30,528|INFO|PublicApi.py:70|<pages.BorrowListPage.BorrowListPage object at 0x000001707E0C3790>
+2021-05-29 13:56:30,528|DEBUG|BorrowregModel.py:87|数据文件: D:\PycharmProjects\SmartBook11\models\Borrowreg.dbx
+2021-05-29 13:56:30,528|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook11\models\Bookinfo.dbx
+2021-05-29 13:56:30,529|INFO|BookinfoModel.py:150|SELECT BY ID:
+2021-05-29 13:56:30,529|INFO|BookinfoModel.py:151|Bookinfo:(4,01,《哈利波特》,美·哈利,0,True,admin)
+2021-05-29 13:56:30,529|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook11\models\Bookinfo.dbx
+2021-05-29 13:56:30,529|INFO|BookinfoModel.py:150|SELECT BY ID:
+2021-05-29 13:56:30,529|INFO|BookinfoModel.py:151|Bookinfo:(14,01,《afa》,afafa,0,True,admin)
+2021-05-29 13:56:31,241|DEBUG|SuperPage.py:32|----借阅清单----
+2021-05-29 13:56:31,241|DEBUG|SuperPage.py:33|[]
+2021-05-29 13:56:31,241|INFO|SuperPage.py:91|>>>action:BookActions.do_borrowlist
+2021-05-29 13:56:31,241|INFO|PublicApi.py:68|登陆检查：
+2021-05-29 13:56:31,241|INFO|PublicApi.py:69|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 13:56:31,241|INFO|PublicApi.py:70|<pages.BorrowListPage.BorrowListPage object at 0x000001707E0C3790>
+2021-05-29 13:56:31,242|DEBUG|BorrowregModel.py:87|数据文件: D:\PycharmProjects\SmartBook11\models\Borrowreg.dbx
+2021-05-29 13:56:31,242|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook11\models\Bookinfo.dbx
+2021-05-29 13:56:31,242|INFO|BookinfoModel.py:150|SELECT BY ID:
+2021-05-29 13:56:31,242|INFO|BookinfoModel.py:151|Bookinfo:(4,01,《哈利波特》,美·哈利,0,True,admin)
+2021-05-29 13:56:31,243|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook11\models\Bookinfo.dbx
+2021-05-29 13:56:31,243|INFO|BookinfoModel.py:150|SELECT BY ID:
+2021-05-29 13:56:31,243|INFO|BookinfoModel.py:151|Bookinfo:(14,01,《afa》,afafa,0,True,admin)
+2021-05-29 13:56:54,346|DEBUG|SuperPage.py:32|
+2021-05-29 13:56:54,346|DEBUG|SuperPage.py:33|[]
+2021-05-29 13:56:54,346|DEBUG|SuperPage.py:32|您好{self.user.realname},您是第{self.user.userid}个读者
+2021-05-29 13:56:54,347|DEBUG|SuperPage.py:33|['{self.user.realname}', '{self.user.userid}']
+2021-05-29 13:56:54,347|DEBUG|SuperPage.py:32|欢迎来到,图书管理系统(SmartBook)
+2021-05-29 13:56:54,347|DEBUG|SuperPage.py:33|[]
+2021-05-29 13:56:54,347|DEBUG|SuperPage.py:32|在册登记图书(300), 借阅图书(5)
+2021-05-29 13:56:54,347|DEBUG|SuperPage.py:33|[]
+2021-05-29 13:56:54,347|DEBUG|SuperPage.py:32|上次登陆: {self.user.last_date}
+2021-05-29 13:56:54,347|DEBUG|SuperPage.py:33|['{self.user.last_date}']
+2021-05-29 13:56:54,347|DEBUG|SuperPage.py:32|
+2021-05-29 13:56:54,347|DEBUG|SuperPage.py:33|[]
+2021-05-29 13:56:54,347|DEBUG|SuperPage.py:58|个人信息(P),图书浏览(L),读者管理(U),借阅清单(S),注销(E)
+2021-05-29 13:56:55,993|DEBUG|SuperPage.py:69|用户输入的命令是: s
+2021-05-29 13:56:55,993|DEBUG|SuperPage.py:84|找到指令:
+2021-05-29 13:56:55,993|DEBUG|SuperPage.py:85|BookActions.book_borrowlist
+2021-05-29 13:56:56,002|INFO|SuperPage.py:91|>>>action:BookActions.book_borrowlist
+2021-05-29 13:56:56,002|INFO|PublicApi.py:68|登陆检查：
+2021-05-29 13:56:56,002|INFO|PublicApi.py:69|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 13:56:56,002|INFO|PublicApi.py:70|<pages.HomePage.HomePage object at 0x0000027097571BE0>
+2021-05-29 13:56:56,025|DEBUG|SuperPage.py:32|----借阅清单----
+2021-05-29 13:56:56,026|DEBUG|SuperPage.py:33|[]
+2021-05-29 13:56:56,026|INFO|SuperPage.py:91|>>>action:BookActions.do_borrowlist
+2021-05-29 13:56:56,026|INFO|PublicApi.py:68|登陆检查：
+2021-05-29 13:56:56,026|INFO|PublicApi.py:69|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 13:56:56,026|INFO|PublicApi.py:70|<pages.BorrowListPage.BorrowListPage object at 0x00000270974D3790>
+2021-05-29 13:56:56,027|DEBUG|BorrowregModel.py:87|数据文件: D:\PycharmProjects\SmartBook11\models\Borrowreg.dbx
+2021-05-29 13:56:56,027|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook11\models\Bookinfo.dbx
+2021-05-29 13:56:56,027|INFO|BookinfoModel.py:150|SELECT BY ID:
+2021-05-29 13:56:56,027|INFO|BookinfoModel.py:151|Bookinfo:(4,01,《哈利波特》,美·哈利,0,True,admin)
+2021-05-29 13:56:56,028|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook11\models\Bookinfo.dbx
+2021-05-29 13:56:56,028|INFO|BookinfoModel.py:150|SELECT BY ID:
+2021-05-29 13:56:56,028|INFO|BookinfoModel.py:151|Bookinfo:(14,01,《afa》,afafa,0,True,admin)
+2021-05-29 13:56:58,419|DEBUG|SuperPage.py:32|
+2021-05-29 13:56:58,419|DEBUG|SuperPage.py:33|[]
+2021-05-29 13:56:58,419|DEBUG|SuperPage.py:32|您好{self.user.realname},您是第{self.user.userid}个读者
+2021-05-29 13:56:58,419|DEBUG|SuperPage.py:33|['{self.user.realname}', '{self.user.userid}']
+2021-05-29 13:56:58,420|DEBUG|SuperPage.py:32|欢迎来到,图书管理系统(SmartBook)
+2021-05-29 13:56:58,420|DEBUG|SuperPage.py:33|[]
+2021-05-29 13:56:58,420|DEBUG|SuperPage.py:32|在册登记图书(300), 借阅图书(5)
+2021-05-29 13:56:58,420|DEBUG|SuperPage.py:33|[]
+2021-05-29 13:56:58,420|DEBUG|SuperPage.py:32|上次登陆: {self.user.last_date}
+2021-05-29 13:56:58,420|DEBUG|SuperPage.py:33|['{self.user.last_date}']
+2021-05-29 13:56:58,420|DEBUG|SuperPage.py:32|
+2021-05-29 13:56:58,420|DEBUG|SuperPage.py:33|[]
+2021-05-29 13:56:58,420|DEBUG|SuperPage.py:58|个人信息(P),图书浏览(L),读者管理(U),借阅清单(S),注销(E)
+2021-05-29 13:56:59,929|DEBUG|SuperPage.py:69|用户输入的命令是: s
+2021-05-29 13:56:59,930|DEBUG|SuperPage.py:84|找到指令:
+2021-05-29 13:56:59,930|DEBUG|SuperPage.py:85|BookActions.book_borrowlist
+2021-05-29 13:56:59,930|INFO|SuperPage.py:91|>>>action:BookActions.book_borrowlist
+2021-05-29 13:56:59,930|INFO|PublicApi.py:68|登陆检查：
+2021-05-29 13:56:59,930|INFO|PublicApi.py:69|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 13:56:59,930|INFO|PublicApi.py:70|<pages.HomePage.HomePage object at 0x0000027097571BE0>
+2021-05-29 13:56:59,957|DEBUG|SuperPage.py:32|----借阅清单----
+2021-05-29 13:56:59,957|DEBUG|SuperPage.py:33|[]
+2021-05-29 13:56:59,957|INFO|SuperPage.py:91|>>>action:BookActions.do_borrowlist
+2021-05-29 13:56:59,957|INFO|PublicApi.py:68|登陆检查：
+2021-05-29 13:56:59,957|INFO|PublicApi.py:69|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 13:56:59,957|INFO|PublicApi.py:70|<pages.BorrowListPage.BorrowListPage object at 0x00000270976332B0>
+2021-05-29 13:56:59,957|DEBUG|BorrowregModel.py:87|数据文件: D:\PycharmProjects\SmartBook11\models\Borrowreg.dbx
+2021-05-29 13:56:59,958|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook11\models\Bookinfo.dbx
+2021-05-29 13:56:59,958|INFO|BookinfoModel.py:150|SELECT BY ID:
+2021-05-29 13:56:59,958|INFO|BookinfoModel.py:151|Bookinfo:(4,01,《哈利波特》,美·哈利,0,True,admin)
+2021-05-29 13:56:59,958|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook11\models\Bookinfo.dbx
+2021-05-29 13:56:59,958|INFO|BookinfoModel.py:150|SELECT BY ID:
+2021-05-29 13:56:59,958|INFO|BookinfoModel.py:151|Bookinfo:(14,01,《afa》,afafa,0,True,admin)
+2021-05-29 13:58:07,446|DEBUG|SuperPage.py:32|
+2021-05-29 13:58:07,446|DEBUG|SuperPage.py:33|[]
+2021-05-29 13:58:07,446|DEBUG|SuperPage.py:32|您好{self.user.realname},您是第{self.user.userid}个读者
+2021-05-29 13:58:07,446|DEBUG|SuperPage.py:33|['{self.user.realname}', '{self.user.userid}']
+2021-05-29 13:58:07,446|DEBUG|SuperPage.py:32|欢迎来到,图书管理系统(SmartBook)
+2021-05-29 13:58:07,446|DEBUG|SuperPage.py:33|[]
+2021-05-29 13:58:07,447|DEBUG|SuperPage.py:32|在册登记图书(300), 借阅图书(5)
+2021-05-29 13:58:07,447|DEBUG|SuperPage.py:33|[]
+2021-05-29 13:58:07,447|DEBUG|SuperPage.py:32|上次登陆: {self.user.last_date}
+2021-05-29 13:58:07,447|DEBUG|SuperPage.py:33|['{self.user.last_date}']
+2021-05-29 13:58:07,447|DEBUG|SuperPage.py:32|
+2021-05-29 13:58:07,447|DEBUG|SuperPage.py:33|[]
+2021-05-29 13:58:07,447|DEBUG|SuperPage.py:58|个人信息(P),图书浏览(L),读者管理(U),借阅清单(S),注销(E)
+2021-05-29 13:58:10,114|DEBUG|SuperPage.py:32|
+2021-05-29 13:58:10,114|DEBUG|SuperPage.py:33|[]
+2021-05-29 13:58:10,114|DEBUG|SuperPage.py:32|您好{self.user.realname},您是第{self.user.userid}个读者
+2021-05-29 13:58:10,114|DEBUG|SuperPage.py:33|['{self.user.realname}', '{self.user.userid}']
+2021-05-29 13:58:10,114|DEBUG|SuperPage.py:32|欢迎来到,图书管理系统(SmartBook)
+2021-05-29 13:58:10,114|DEBUG|SuperPage.py:33|[]
+2021-05-29 13:58:10,115|DEBUG|SuperPage.py:32|在册登记图书(300), 借阅图书(5)
+2021-05-29 13:58:10,115|DEBUG|SuperPage.py:33|[]
+2021-05-29 13:58:10,115|DEBUG|SuperPage.py:32|上次登陆: {self.user.last_date}
+2021-05-29 13:58:10,115|DEBUG|SuperPage.py:33|['{self.user.last_date}']
+2021-05-29 13:58:10,115|DEBUG|SuperPage.py:32|
+2021-05-29 13:58:10,115|DEBUG|SuperPage.py:33|[]
+2021-05-29 13:58:10,115|DEBUG|SuperPage.py:58|个人信息(P),图书浏览(L),读者管理(U),借阅清单(S),注销(E)
+2021-05-29 13:58:12,461|DEBUG|SuperPage.py:69|用户输入的命令是: s
+2021-05-29 13:58:12,462|DEBUG|SuperPage.py:84|找到指令:
+2021-05-29 13:58:12,462|DEBUG|SuperPage.py:85|BookActions.book_borrowlist
+2021-05-29 13:58:12,472|INFO|SuperPage.py:91|>>>action:BookActions.book_borrowlist
+2021-05-29 13:58:12,472|INFO|PublicApi.py:68|登陆检查：
+2021-05-29 13:58:12,472|INFO|PublicApi.py:69|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 13:58:12,472|INFO|PublicApi.py:70|<pages.HomePage.HomePage object at 0x000002468B4B1BE0>
+2021-05-29 13:58:12,493|DEBUG|SuperPage.py:32|----借阅清单----
+2021-05-29 13:58:12,494|DEBUG|SuperPage.py:33|[]
+2021-05-29 13:58:12,494|INFO|SuperPage.py:91|>>>action:BookActions.do_borrowlist
+2021-05-29 13:58:12,494|INFO|PublicApi.py:68|登陆检查：
+2021-05-29 13:58:12,494|INFO|PublicApi.py:69|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 13:58:12,494|INFO|PublicApi.py:70|<pages.BorrowListPage.BorrowListPage object at 0x000002468B013790>
+2021-05-29 13:58:12,494|DEBUG|BorrowregModel.py:87|数据文件: D:\PycharmProjects\SmartBook11\models\Borrowreg.dbx
+2021-05-29 13:58:12,494|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook11\models\Bookinfo.dbx
+2021-05-29 13:58:12,495|INFO|BookinfoModel.py:150|SELECT BY ID:
+2021-05-29 13:58:12,495|INFO|BookinfoModel.py:151|Bookinfo:(4,01,《哈利波特》,美·哈利,0,True,admin)
+2021-05-29 13:58:12,495|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook11\models\Bookinfo.dbx
+2021-05-29 13:58:12,495|INFO|BookinfoModel.py:150|SELECT BY ID:
+2021-05-29 13:58:12,495|INFO|BookinfoModel.py:151|Bookinfo:(14,01,《afa》,afafa,0,True,admin)
+2021-05-29 13:58:24,071|DEBUG|SuperPage.py:32|
+2021-05-29 13:58:24,071|DEBUG|SuperPage.py:33|[]
+2021-05-29 13:58:24,072|DEBUG|SuperPage.py:32|您好{self.user.realname},您是第{self.user.userid}个读者
+2021-05-29 13:58:24,072|DEBUG|SuperPage.py:33|['{self.user.realname}', '{self.user.userid}']
+2021-05-29 13:58:24,072|DEBUG|SuperPage.py:32|欢迎来到,图书管理系统(SmartBook)
+2021-05-29 13:58:24,072|DEBUG|SuperPage.py:33|[]
+2021-05-29 13:58:24,072|DEBUG|SuperPage.py:32|在册登记图书(300), 借阅图书(5)
+2021-05-29 13:58:24,072|DEBUG|SuperPage.py:33|[]
+2021-05-29 13:58:24,072|DEBUG|SuperPage.py:32|上次登陆: {self.user.last_date}
+2021-05-29 13:58:24,072|DEBUG|SuperPage.py:33|['{self.user.last_date}']
+2021-05-29 13:58:24,073|DEBUG|SuperPage.py:32|
+2021-05-29 13:58:24,073|DEBUG|SuperPage.py:33|[]
+2021-05-29 13:58:24,073|DEBUG|SuperPage.py:58|个人信息(P),图书浏览(L),读者管理(U),借阅清单(S),注销(E)
+2021-05-29 14:00:31,994|DEBUG|SuperPage.py:69|用户输入的命令是: e
+2021-05-29 14:00:31,994|DEBUG|SuperPage.py:84|找到指令:
+2021-05-29 14:00:31,994|DEBUG|SuperPage.py:85|UserActions.user_logout
+2021-05-29 14:00:32,009|INFO|SuperPage.py:91|>>>action:UserActions.user_logout
+2021-05-29 14:00:32,009|INFO|PublicApi.py:68|登陆检查：
+2021-05-29 14:00:32,009|INFO|PublicApi.py:69|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:00:32,009|INFO|PublicApi.py:70|<pages.HomePage.HomePage object at 0x000002468B4B1BE0>
+2021-05-29 14:00:32,030|DEBUG|SuperPage.py:32|
+2021-05-29 14:00:32,030|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:00:32,030|DEBUG|SuperPage.py:32|欢迎来到,
+2021-05-29 14:00:32,030|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:00:32,030|DEBUG|SuperPage.py:32|图书管理系统(SmartBook)
+2021-05-29 14:00:32,030|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:00:32,031|DEBUG|SuperPage.py:32|版本号: v0.1
+2021-05-29 14:00:32,031|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:00:32,031|DEBUG|SuperPage.py:32|开发者: Sniper
+2021-05-29 14:00:32,031|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:00:32,031|DEBUG|SuperPage.py:32|系统日期: yyyy年mm月dd日
+2021-05-29 14:00:32,031|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:00:32,031|DEBUG|SuperPage.py:32|
+2021-05-29 14:00:32,031|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:00:32,031|DEBUG|SuperPage.py:58|登陆(L),注册(R),找回密码(F),退出(Q)
+2021-05-29 14:00:32,468|DEBUG|SuperPage.py:69|用户输入的命令是: q
+2021-05-29 14:00:32,468|DEBUG|SuperPage.py:84|找到指令:
+2021-05-29 14:00:32,468|DEBUG|SuperPage.py:85|PublicActions.sys_exit
+2021-05-29 14:00:32,471|INFO|SuperPage.py:91|>>>action:PublicActions.sys_exit
+2021-05-29 14:00:32,471|INFO|PublicActions.py:13|用户退出系统
+2021-05-29 14:00:34,498|DEBUG|SuperPage.py:32|
+2021-05-29 14:00:34,498|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:00:34,498|DEBUG|SuperPage.py:32|您好{self.user.realname},您是第{self.user.userid}个读者
+2021-05-29 14:00:34,499|DEBUG|SuperPage.py:33|['{self.user.realname}', '{self.user.userid}']
+2021-05-29 14:00:34,499|DEBUG|SuperPage.py:32|欢迎来到,图书管理系统(SmartBook)
+2021-05-29 14:00:34,499|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:00:34,499|DEBUG|SuperPage.py:32|在册登记图书(300), 借阅图书(5)
+2021-05-29 14:00:34,499|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:00:34,499|DEBUG|SuperPage.py:32|上次登陆: {self.user.last_date}
+2021-05-29 14:00:34,499|DEBUG|SuperPage.py:33|['{self.user.last_date}']
+2021-05-29 14:00:34,499|DEBUG|SuperPage.py:32|
+2021-05-29 14:00:34,499|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:00:34,499|DEBUG|SuperPage.py:58|个人信息(P),图书浏览(L),读者管理(U),借阅清单(S),注销(E)
+2021-05-29 14:00:35,784|DEBUG|SuperPage.py:69|用户输入的命令是: s
+2021-05-29 14:00:35,784|DEBUG|SuperPage.py:84|找到指令:
+2021-05-29 14:00:35,784|DEBUG|SuperPage.py:85|BookActions.book_borrowlist
+2021-05-29 14:00:35,791|INFO|SuperPage.py:91|>>>action:BookActions.book_borrowlist
+2021-05-29 14:00:35,791|INFO|PublicApi.py:68|登陆检查：
+2021-05-29 14:00:35,791|INFO|PublicApi.py:69|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:00:35,792|INFO|PublicApi.py:70|<pages.HomePage.HomePage object at 0x0000021ED2071BE0>
+2021-05-29 14:00:35,814|DEBUG|SuperPage.py:32|----借阅清单----
+2021-05-29 14:00:35,814|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:00:35,814|DEBUG|SuperPage.py:58|查询(S),归还图书(R)
+2021-05-29 14:00:48,081|DEBUG|SuperPage.py:69|用户输入的命令是: s
+2021-05-29 14:00:48,081|DEBUG|SuperPage.py:84|找到指令:
+2021-05-29 14:00:48,081|DEBUG|SuperPage.py:85|BookActions.do_borrowlist
+2021-05-29 14:00:48,081|INFO|SuperPage.py:91|>>>action:BookActions.do_borrowlist
+2021-05-29 14:00:48,082|INFO|PublicApi.py:68|登陆检查：
+2021-05-29 14:00:48,082|INFO|PublicApi.py:69|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:00:48,082|INFO|PublicApi.py:70|<pages.BorrowListPage.BorrowListPage object at 0x0000021ED1BB3790>
+2021-05-29 14:00:48,082|DEBUG|BorrowregModel.py:87|数据文件: D:\PycharmProjects\SmartBook11\models\Borrowreg.dbx
+2021-05-29 14:00:48,083|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook11\models\Bookinfo.dbx
+2021-05-29 14:00:48,084|INFO|BookinfoModel.py:150|SELECT BY ID:
+2021-05-29 14:00:48,084|INFO|BookinfoModel.py:151|Bookinfo:(4,01,《哈利波特》,美·哈利,0,True,admin)
+2021-05-29 14:00:48,084|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook11\models\Bookinfo.dbx
+2021-05-29 14:00:48,084|INFO|BookinfoModel.py:150|SELECT BY ID:
+2021-05-29 14:00:48,085|INFO|BookinfoModel.py:151|Bookinfo:(14,01,《afa》,afafa,0,True,admin)
+2021-05-29 14:00:51,075|DEBUG|SuperPage.py:32|
+2021-05-29 14:00:51,076|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:00:51,076|DEBUG|SuperPage.py:32|您好{self.user.realname},您是第{self.user.userid}个读者
+2021-05-29 14:00:51,076|DEBUG|SuperPage.py:33|['{self.user.realname}', '{self.user.userid}']
+2021-05-29 14:00:51,076|DEBUG|SuperPage.py:32|欢迎来到,图书管理系统(SmartBook)
+2021-05-29 14:00:51,076|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:00:51,076|DEBUG|SuperPage.py:32|在册登记图书(300), 借阅图书(5)
+2021-05-29 14:00:51,076|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:00:51,076|DEBUG|SuperPage.py:32|上次登陆: {self.user.last_date}
+2021-05-29 14:00:51,076|DEBUG|SuperPage.py:33|['{self.user.last_date}']
+2021-05-29 14:00:51,076|DEBUG|SuperPage.py:32|
+2021-05-29 14:00:51,076|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:00:51,077|DEBUG|SuperPage.py:58|个人信息(P),图书浏览(L),读者管理(U),借阅清单(S),注销(E)
+2021-05-29 14:00:57,953|DEBUG|SuperPage.py:69|用户输入的命令是: e
+2021-05-29 14:00:57,953|DEBUG|SuperPage.py:84|找到指令:
+2021-05-29 14:00:57,953|DEBUG|SuperPage.py:85|UserActions.user_logout
+2021-05-29 14:00:57,958|INFO|SuperPage.py:91|>>>action:UserActions.user_logout
+2021-05-29 14:00:57,958|INFO|PublicApi.py:68|登陆检查：
+2021-05-29 14:00:57,958|INFO|PublicApi.py:69|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:00:57,958|INFO|PublicApi.py:70|<pages.HomePage.HomePage object at 0x0000021ED2071BE0>
+2021-05-29 14:00:57,985|DEBUG|SuperPage.py:32|
+2021-05-29 14:00:57,985|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:00:57,985|DEBUG|SuperPage.py:32|欢迎来到,
+2021-05-29 14:00:57,985|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:00:57,986|DEBUG|SuperPage.py:32|图书管理系统(SmartBook)
+2021-05-29 14:00:57,986|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:00:57,986|DEBUG|SuperPage.py:32|版本号: v0.1
+2021-05-29 14:00:57,986|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:00:57,986|DEBUG|SuperPage.py:32|开发者: Sniper
+2021-05-29 14:00:57,986|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:00:57,986|DEBUG|SuperPage.py:32|系统日期: yyyy年mm月dd日
+2021-05-29 14:00:57,986|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:00:57,986|DEBUG|SuperPage.py:32|
+2021-05-29 14:00:57,987|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:00:57,987|DEBUG|SuperPage.py:58|登陆(L),注册(R),找回密码(F),退出(Q)
+2021-05-29 14:00:58,481|DEBUG|SuperPage.py:69|用户输入的命令是: q
+2021-05-29 14:00:58,481|DEBUG|SuperPage.py:84|找到指令:
+2021-05-29 14:00:58,481|DEBUG|SuperPage.py:85|PublicActions.sys_exit
+2021-05-29 14:00:58,482|INFO|SuperPage.py:91|>>>action:PublicActions.sys_exit
+2021-05-29 14:00:58,482|INFO|PublicActions.py:13|用户退出系统
+2021-05-29 14:00:59,945|DEBUG|SuperPage.py:32|
+2021-05-29 14:00:59,945|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:00:59,945|DEBUG|SuperPage.py:32|您好{self.user.realname},您是第{self.user.userid}个读者
+2021-05-29 14:00:59,945|DEBUG|SuperPage.py:33|['{self.user.realname}', '{self.user.userid}']
+2021-05-29 14:00:59,945|DEBUG|SuperPage.py:32|欢迎来到,图书管理系统(SmartBook)
+2021-05-29 14:00:59,945|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:00:59,945|DEBUG|SuperPage.py:32|在册登记图书(300), 借阅图书(5)
+2021-05-29 14:00:59,946|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:00:59,946|DEBUG|SuperPage.py:32|上次登陆: {self.user.last_date}
+2021-05-29 14:00:59,946|DEBUG|SuperPage.py:33|['{self.user.last_date}']
+2021-05-29 14:00:59,946|DEBUG|SuperPage.py:32|
+2021-05-29 14:00:59,946|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:00:59,946|DEBUG|SuperPage.py:58|个人信息(P),图书浏览(L),读者管理(U),借阅清单(S),注销(E)
+2021-05-29 14:01:01,444|DEBUG|SuperPage.py:69|用户输入的命令是: s
+2021-05-29 14:01:01,444|DEBUG|SuperPage.py:84|找到指令:
+2021-05-29 14:01:01,444|DEBUG|SuperPage.py:85|BookActions.book_borrowlist
+2021-05-29 14:01:01,454|INFO|SuperPage.py:91|>>>action:BookActions.book_borrowlist
+2021-05-29 14:01:01,454|INFO|PublicApi.py:68|登陆检查：
+2021-05-29 14:01:01,454|INFO|PublicApi.py:69|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:01:01,454|INFO|PublicApi.py:70|<pages.HomePage.HomePage object at 0x00000174F50D1BE0>
+2021-05-29 14:01:01,476|DEBUG|SuperPage.py:32|----借阅清单----
+2021-05-29 14:01:01,476|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:01:01,476|DEBUG|SuperPage.py:58|查询(S),归还图书(R)
+2021-05-29 14:01:06,850|DEBUG|SuperPage.py:69|用户输入的命令是: s
+2021-05-29 14:01:06,850|DEBUG|SuperPage.py:84|找到指令:
+2021-05-29 14:01:06,850|DEBUG|SuperPage.py:85|BookActions.do_borrowlist
+2021-05-29 14:01:06,850|INFO|SuperPage.py:91|>>>action:BookActions.do_borrowlist
+2021-05-29 14:01:06,850|INFO|PublicApi.py:68|登陆检查：
+2021-05-29 14:01:06,850|INFO|PublicApi.py:69|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:01:06,850|INFO|PublicApi.py:70|<pages.BorrowListPage.BorrowListPage object at 0x00000174F5033790>
+2021-05-29 14:01:06,850|DEBUG|BorrowregModel.py:87|数据文件: D:\PycharmProjects\SmartBook11\models\Borrowreg.dbx
+2021-05-29 14:01:06,851|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook11\models\Bookinfo.dbx
+2021-05-29 14:01:06,851|INFO|BookinfoModel.py:150|SELECT BY ID:
+2021-05-29 14:01:06,851|INFO|BookinfoModel.py:151|Bookinfo:(4,01,《哈利波特》,美·哈利,0,True,admin)
+2021-05-29 14:01:06,851|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook11\models\Bookinfo.dbx
+2021-05-29 14:01:06,852|INFO|BookinfoModel.py:150|SELECT BY ID:
+2021-05-29 14:01:06,852|INFO|BookinfoModel.py:151|Bookinfo:(14,01,《afa》,afafa,0,True,admin)
+2021-05-29 14:01:14,303|DEBUG|SuperPage.py:32|----借阅清单----
+2021-05-29 14:01:14,303|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:01:14,303|DEBUG|SuperPage.py:58|查询(S),归还图书(R)
+2021-05-29 14:09:17,437|DEBUG|SuperPage.py:32|
+2021-05-29 14:09:17,437|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:09:17,437|DEBUG|SuperPage.py:32|您好{self.user.realname},您是第{self.user.userid}个读者
+2021-05-29 14:09:17,437|DEBUG|SuperPage.py:33|['{self.user.realname}', '{self.user.userid}']
+2021-05-29 14:09:17,437|DEBUG|SuperPage.py:32|欢迎来到,图书管理系统(SmartBook)
+2021-05-29 14:09:17,438|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:09:17,438|DEBUG|SuperPage.py:32|在册登记图书(300), 借阅图书(5)
+2021-05-29 14:09:17,438|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:09:17,438|DEBUG|SuperPage.py:32|上次登陆: {self.user.last_date}
+2021-05-29 14:09:17,438|DEBUG|SuperPage.py:33|['{self.user.last_date}']
+2021-05-29 14:09:17,438|DEBUG|SuperPage.py:32|
+2021-05-29 14:09:17,438|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:09:17,438|DEBUG|SuperPage.py:58|个人信息(P),图书浏览(L),读者管理(U),借阅清单(S),注销(E)
+2021-05-29 14:09:18,918|DEBUG|SuperPage.py:69|用户输入的命令是: s
+2021-05-29 14:09:18,919|DEBUG|SuperPage.py:84|找到指令:
+2021-05-29 14:09:18,919|DEBUG|SuperPage.py:85|BookActions.book_borrowlist
+2021-05-29 14:09:18,928|INFO|SuperPage.py:91|>>>action:BookActions.book_borrowlist
+2021-05-29 14:09:18,928|INFO|PublicApi.py:68|登陆检查：
+2021-05-29 14:09:18,928|INFO|PublicApi.py:69|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:09:18,928|INFO|PublicApi.py:70|<pages.HomePage.HomePage object at 0x00000252E6961BE0>
+2021-05-29 14:09:18,951|DEBUG|SuperPage.py:32|----借阅清单----
+2021-05-29 14:09:18,951|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:09:18,951|DEBUG|SuperPage.py:58|查询(S),归还图书(R)
+2021-05-29 14:09:20,989|DEBUG|SuperPage.py:69|用户输入的命令是: s
+2021-05-29 14:09:20,989|DEBUG|SuperPage.py:84|找到指令:
+2021-05-29 14:09:20,989|DEBUG|SuperPage.py:85|BookActions.do_borrowlist
+2021-05-29 14:09:20,989|INFO|SuperPage.py:91|>>>action:BookActions.do_borrowlist
+2021-05-29 14:09:20,989|INFO|PublicApi.py:68|登陆检查：
+2021-05-29 14:09:20,989|INFO|PublicApi.py:69|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:09:20,989|INFO|PublicApi.py:70|<pages.BorrowListPage.BorrowListPage object at 0x00000252E64A3790>
+2021-05-29 14:09:20,990|DEBUG|BorrowregModel.py:87|数据文件: D:\PycharmProjects\SmartBook11\models\Borrowreg.dbx
+2021-05-29 14:09:20,990|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook11\models\Bookinfo.dbx
+2021-05-29 14:09:20,991|INFO|BookinfoModel.py:150|SELECT BY ID:
+2021-05-29 14:09:20,991|INFO|BookinfoModel.py:151|Bookinfo:(4,01,《哈利波特》,美·哈利,0,True,admin)
+2021-05-29 14:09:20,991|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook11\models\Bookinfo.dbx
+2021-05-29 14:09:20,991|INFO|BookinfoModel.py:150|SELECT BY ID:
+2021-05-29 14:09:20,991|INFO|BookinfoModel.py:151|Bookinfo:(14,01,《afa》,afafa,0,True,admin)
+2021-05-29 14:09:26,649|DEBUG|SuperPage.py:32|----借阅清单----
+2021-05-29 14:09:26,650|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:09:26,650|DEBUG|SuperPage.py:58|查询(S),归还图书(R)
+2021-05-29 14:09:28,102|DEBUG|SuperPage.py:69|用户输入的命令是: r
+2021-05-29 14:09:28,103|DEBUG|SuperPage.py:84|找到指令:
+2021-05-29 14:09:28,103|DEBUG|SuperPage.py:85|BookActions.do_return
+2021-05-29 14:09:28,103|INFO|SuperPage.py:91|>>>action:BookActions.do_return
+2021-05-29 14:09:28,103|INFO|PublicApi.py:68|登陆检查：
+2021-05-29 14:09:28,103|INFO|PublicApi.py:69|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:09:28,103|INFO|PublicApi.py:70|<pages.BorrowListPage.BorrowListPage object at 0x00000252E64A3790>
+2021-05-29 14:09:31,114|DEBUG|BorrowregModel.py:87|数据文件: D:\PycharmProjects\SmartBook11\models\Borrowreg.dbx
+2021-05-29 14:09:31,114|INFO|BorrowregModel.py:124|SELECT BY ID:
+2021-05-29 14:09:31,114|INFO|BorrowregModel.py:125|Borrowreg:(2,14,7,B,None)
+2021-05-29 14:09:31,114|DEBUG|BorrowregModel.py:87|数据文件: D:\PycharmProjects\SmartBook11\models\Borrowreg.dbx
+2021-05-29 14:09:31,114|DEBUG|BorrowregModel.py:135|Borrowreg:(2,14,7,B,None)
+2021-05-29 14:09:31,114|DEBUG|BorrowregModel.py:136|Borrowreg:(2,14,7,R,admin)
+2021-05-29 14:09:31,114|INFO|BorrowregModel.py:141|UPDATE borrow:
+2021-05-29 14:09:31,114|INFO|BorrowregModel.py:142|Borrowreg:(2,14,7,R,admin)
+2021-05-29 14:09:31,115|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook11\models\Bookinfo.dbx
+2021-05-29 14:09:31,115|INFO|BookinfoModel.py:150|SELECT BY ID:
+2021-05-29 14:09:31,115|INFO|BookinfoModel.py:151|Bookinfo:(14,01,《afa》,afafa,0,True,admin)
+2021-05-29 14:09:31,115|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook11\models\Bookinfo.dbx
+2021-05-29 14:09:31,115|DEBUG|BookinfoModel.py:161|Bookinfo:(14,01,《afa》,afafa,0,True,admin)
+2021-05-29 14:09:31,115|DEBUG|BookinfoModel.py:162|Bookinfo:(14,01,《afa》,afafa,0,False,admin)
+2021-05-29 14:09:31,115|INFO|BookinfoModel.py:169|UPDATE book:
+2021-05-29 14:09:31,115|INFO|BookinfoModel.py:170|Bookinfo:(14,01,《afa》,afafa,0,False,admin)
+2021-05-29 14:09:34,626|DEBUG|SuperPage.py:32|----借阅清单----
+2021-05-29 14:09:34,626|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:09:34,627|DEBUG|SuperPage.py:58|查询(S),归还图书(R)
+2021-05-29 14:09:35,783|DEBUG|SuperPage.py:69|用户输入的命令是: s
+2021-05-29 14:09:35,783|DEBUG|SuperPage.py:84|找到指令:
+2021-05-29 14:09:35,783|DEBUG|SuperPage.py:85|BookActions.do_borrowlist
+2021-05-29 14:09:35,783|INFO|SuperPage.py:91|>>>action:BookActions.do_borrowlist
+2021-05-29 14:09:35,783|INFO|PublicApi.py:68|登陆检查：
+2021-05-29 14:09:35,783|INFO|PublicApi.py:69|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:09:35,784|INFO|PublicApi.py:70|<pages.BorrowListPage.BorrowListPage object at 0x00000252E64A3790>
+2021-05-29 14:09:35,784|DEBUG|BorrowregModel.py:87|数据文件: D:\PycharmProjects\SmartBook11\models\Borrowreg.dbx
+2021-05-29 14:09:35,784|ERROR|PublicApi.py:76|invalid literal for int() with base 10: 'admin'
+Traceback (most recent call last):
+  File "D:\PycharmProjects\SmartBook11\api\PublicApi.py", line 74, in wrapper
+    func(page)
+  File "D:\PycharmProjects\SmartBook11\actions\BookActions.py", line 315, in do_borrowlist
+    borrows = BorrowregDAO.select(p_borrow_user_id=page.user.userid)
+  File "D:\PycharmProjects\SmartBook11\models\BorrowregModel.py", line 99, in select
+    borrow.return_user_id = int(fields[4]) if fields[4] != "None" else None
+ValueError: invalid literal for int() with base 10: 'admin'
+2021-05-29 14:10:11,241|DEBUG|SuperPage.py:32|
+2021-05-29 14:10:11,241|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:10:11,241|DEBUG|SuperPage.py:32|您好{self.user.realname},您是第{self.user.userid}个读者
+2021-05-29 14:10:11,241|DEBUG|SuperPage.py:33|['{self.user.realname}', '{self.user.userid}']
+2021-05-29 14:10:11,241|DEBUG|SuperPage.py:32|欢迎来到,图书管理系统(SmartBook)
+2021-05-29 14:10:11,241|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:10:11,241|DEBUG|SuperPage.py:32|在册登记图书(300), 借阅图书(5)
+2021-05-29 14:10:11,242|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:10:11,242|DEBUG|SuperPage.py:32|上次登陆: {self.user.last_date}
+2021-05-29 14:10:11,242|DEBUG|SuperPage.py:33|['{self.user.last_date}']
+2021-05-29 14:10:11,242|DEBUG|SuperPage.py:32|
+2021-05-29 14:10:11,242|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:10:11,242|DEBUG|SuperPage.py:58|个人信息(P),图书浏览(L),读者管理(U),借阅清单(S),注销(E)
+2021-05-29 14:10:12,897|DEBUG|SuperPage.py:69|用户输入的命令是: s
+2021-05-29 14:10:12,897|DEBUG|SuperPage.py:84|找到指令:
+2021-05-29 14:10:12,897|DEBUG|SuperPage.py:85|BookActions.book_borrowlist
+2021-05-29 14:10:12,909|INFO|SuperPage.py:91|>>>action:BookActions.book_borrowlist
+2021-05-29 14:10:12,909|INFO|PublicApi.py:68|登陆检查：
+2021-05-29 14:10:12,909|INFO|PublicApi.py:69|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:10:12,909|INFO|PublicApi.py:70|<pages.HomePage.HomePage object at 0x000001F62CC91BE0>
+2021-05-29 14:10:12,932|DEBUG|SuperPage.py:32|----借阅清单----
+2021-05-29 14:10:12,932|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:10:12,932|DEBUG|SuperPage.py:58|查询(S),归还图书(R)
+2021-05-29 14:10:14,123|DEBUG|SuperPage.py:69|用户输入的命令是: s
+2021-05-29 14:10:14,123|DEBUG|SuperPage.py:84|找到指令:
+2021-05-29 14:10:14,123|DEBUG|SuperPage.py:85|BookActions.do_borrowlist
+2021-05-29 14:10:14,124|INFO|SuperPage.py:91|>>>action:BookActions.do_borrowlist
+2021-05-29 14:10:14,124|INFO|PublicApi.py:68|登陆检查：
+2021-05-29 14:10:14,124|INFO|PublicApi.py:69|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:10:14,124|INFO|PublicApi.py:70|<pages.BorrowListPage.BorrowListPage object at 0x000001F62C8A3790>
+2021-05-29 14:10:14,124|DEBUG|BorrowregModel.py:87|数据文件: D:\PycharmProjects\SmartBook11\models\Borrowreg.dbx
+2021-05-29 14:10:14,125|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook11\models\Bookinfo.dbx
+2021-05-29 14:10:14,125|INFO|BookinfoModel.py:150|SELECT BY ID:
+2021-05-29 14:10:14,125|INFO|BookinfoModel.py:151|Bookinfo:(4,01,《哈利波特》,美·哈利,0,True,admin)
+2021-05-29 14:10:14,126|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook11\models\Bookinfo.dbx
+2021-05-29 14:10:14,126|INFO|BookinfoModel.py:150|SELECT BY ID:
+2021-05-29 14:10:14,126|INFO|BookinfoModel.py:151|Bookinfo:(14,01,《afa》,afafa,0,False,admin)
+2021-05-29 14:10:24,076|DEBUG|SuperPage.py:32|----借阅清单----
+2021-05-29 14:10:24,076|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:10:24,076|DEBUG|SuperPage.py:58|查询(S),归还图书(R)
+2021-05-29 14:10:25,915|DEBUG|SuperPage.py:69|用户输入的命令是: r
+2021-05-29 14:10:25,915|DEBUG|SuperPage.py:84|找到指令:
+2021-05-29 14:10:25,915|DEBUG|SuperPage.py:85|BookActions.do_return
+2021-05-29 14:10:25,915|INFO|SuperPage.py:91|>>>action:BookActions.do_return
+2021-05-29 14:10:25,916|INFO|PublicApi.py:68|登陆检查：
+2021-05-29 14:10:25,916|INFO|PublicApi.py:69|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:10:25,916|INFO|PublicApi.py:70|<pages.BorrowListPage.BorrowListPage object at 0x000001F62C8A3790>
+2021-05-29 14:10:26,717|DEBUG|BorrowregModel.py:87|数据文件: D:\PycharmProjects\SmartBook11\models\Borrowreg.dbx
+2021-05-29 14:10:26,717|INFO|BorrowregModel.py:124|SELECT BY ID:
+2021-05-29 14:10:26,717|INFO|BorrowregModel.py:125|Borrowreg:(2,14,7,R,7)
+2021-05-29 14:10:26,718|DEBUG|BorrowregModel.py:87|数据文件: D:\PycharmProjects\SmartBook11\models\Borrowreg.dbx
+2021-05-29 14:10:26,718|DEBUG|BorrowregModel.py:135|Borrowreg:(2,14,7,R,7)
+2021-05-29 14:10:26,718|DEBUG|BorrowregModel.py:136|Borrowreg:(2,14,7,R,7)
+2021-05-29 14:10:26,718|INFO|BorrowregModel.py:141|UPDATE borrow:
+2021-05-29 14:10:26,718|INFO|BorrowregModel.py:142|Borrowreg:(2,14,7,R,7)
+2021-05-29 14:10:26,718|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook11\models\Bookinfo.dbx
+2021-05-29 14:10:26,719|INFO|BookinfoModel.py:150|SELECT BY ID:
+2021-05-29 14:10:26,719|INFO|BookinfoModel.py:151|Bookinfo:(14,01,《afa》,afafa,0,False,admin)
+2021-05-29 14:10:26,719|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook11\models\Bookinfo.dbx
+2021-05-29 14:10:26,719|DEBUG|BookinfoModel.py:161|Bookinfo:(14,01,《afa》,afafa,0,False,admin)
+2021-05-29 14:10:26,719|DEBUG|BookinfoModel.py:162|Bookinfo:(14,01,《afa》,afafa,0,False,admin)
+2021-05-29 14:10:26,719|INFO|BookinfoModel.py:169|UPDATE book:
+2021-05-29 14:10:26,719|INFO|BookinfoModel.py:170|Bookinfo:(14,01,《afa》,afafa,0,False,admin)
+2021-05-29 14:10:27,964|DEBUG|SuperPage.py:32|----借阅清单----
+2021-05-29 14:10:27,964|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:10:27,964|DEBUG|SuperPage.py:58|查询(S),归还图书(R)
+2021-05-29 14:12:15,458|DEBUG|SuperPage.py:69|用户输入的命令是: h
+2021-05-29 14:12:15,483|DEBUG|SuperPage.py:32|
+2021-05-29 14:12:15,483|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:12:15,483|DEBUG|SuperPage.py:32|您好{self.user.realname},您是第{self.user.userid}个读者
+2021-05-29 14:12:15,483|DEBUG|SuperPage.py:33|['{self.user.realname}', '{self.user.userid}']
+2021-05-29 14:12:15,483|DEBUG|SuperPage.py:32|欢迎来到,图书管理系统(SmartBook)
+2021-05-29 14:12:15,483|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:12:15,483|DEBUG|SuperPage.py:32|在册登记图书(300), 借阅图书(5)
+2021-05-29 14:12:15,483|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:12:15,484|DEBUG|SuperPage.py:32|上次登陆: {self.user.last_date}
+2021-05-29 14:12:15,484|DEBUG|SuperPage.py:33|['{self.user.last_date}']
+2021-05-29 14:12:15,484|DEBUG|SuperPage.py:32|
+2021-05-29 14:12:15,484|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:12:15,484|DEBUG|SuperPage.py:58|个人信息(P),图书浏览(L),读者管理(U),借阅清单(S),注销(E)
+2021-05-29 14:12:16,615|DEBUG|SuperPage.py:69|用户输入的命令是: e
+2021-05-29 14:12:16,615|DEBUG|SuperPage.py:84|找到指令:
+2021-05-29 14:12:16,615|DEBUG|SuperPage.py:85|UserActions.user_logout
+2021-05-29 14:12:16,618|INFO|SuperPage.py:91|>>>action:UserActions.user_logout
+2021-05-29 14:12:16,618|INFO|PublicApi.py:68|登陆检查：
+2021-05-29 14:12:16,618|INFO|PublicApi.py:69|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:12:16,618|INFO|PublicApi.py:70|<pages.HomePage.HomePage object at 0x000001F62CC91BE0>
+2021-05-29 14:12:16,643|DEBUG|SuperPage.py:32|
+2021-05-29 14:12:16,643|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:12:16,643|DEBUG|SuperPage.py:32|欢迎来到,
+2021-05-29 14:12:16,643|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:12:16,643|DEBUG|SuperPage.py:32|图书管理系统(SmartBook)
+2021-05-29 14:12:16,643|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:12:16,643|DEBUG|SuperPage.py:32|版本号: v0.1
+2021-05-29 14:12:16,643|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:12:16,643|DEBUG|SuperPage.py:32|开发者: Sniper
+2021-05-29 14:12:16,644|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:12:16,644|DEBUG|SuperPage.py:32|系统日期: yyyy年mm月dd日
+2021-05-29 14:12:16,644|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:12:16,644|DEBUG|SuperPage.py:32|
+2021-05-29 14:12:16,644|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:12:16,644|DEBUG|SuperPage.py:58|登陆(L),注册(R),找回密码(F),退出(Q)
+2021-05-29 14:12:17,175|DEBUG|SuperPage.py:69|用户输入的命令是: q
+2021-05-29 14:12:17,175|DEBUG|SuperPage.py:84|找到指令:
+2021-05-29 14:12:17,175|DEBUG|SuperPage.py:85|PublicActions.sys_exit
+2021-05-29 14:12:17,176|INFO|SuperPage.py:91|>>>action:PublicActions.sys_exit
+2021-05-29 14:12:17,177|INFO|PublicActions.py:13|用户退出系统
+2021-05-29 14:12:18,534|DEBUG|SuperPage.py:32|
+2021-05-29 14:12:18,534|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:12:18,534|DEBUG|SuperPage.py:32|您好{self.user.realname},您是第{self.user.userid}个读者
+2021-05-29 14:12:18,535|DEBUG|SuperPage.py:33|['{self.user.realname}', '{self.user.userid}']
+2021-05-29 14:12:18,535|DEBUG|SuperPage.py:32|欢迎来到,图书管理系统(SmartBook)
+2021-05-29 14:12:18,535|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:12:18,535|DEBUG|SuperPage.py:32|在册登记图书(300), 借阅图书(5)
+2021-05-29 14:12:18,535|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:12:18,535|DEBUG|SuperPage.py:32|上次登陆: {self.user.last_date}
+2021-05-29 14:12:18,535|DEBUG|SuperPage.py:33|['{self.user.last_date}']
+2021-05-29 14:12:18,535|DEBUG|SuperPage.py:32|
+2021-05-29 14:12:18,535|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:12:18,535|DEBUG|SuperPage.py:58|个人信息(P),图书浏览(L),读者管理(U),借阅清单(S),注销(E)
+2021-05-29 14:12:19,699|DEBUG|SuperPage.py:69|用户输入的命令是: s
+2021-05-29 14:12:19,699|DEBUG|SuperPage.py:84|找到指令:
+2021-05-29 14:12:19,699|DEBUG|SuperPage.py:85|BookActions.book_borrowlist
+2021-05-29 14:12:19,709|INFO|SuperPage.py:91|>>>action:BookActions.book_borrowlist
+2021-05-29 14:12:19,709|INFO|PublicApi.py:68|登陆检查：
+2021-05-29 14:12:19,709|INFO|PublicApi.py:69|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:12:19,710|INFO|PublicApi.py:70|<pages.HomePage.HomePage object at 0x000001EC4C8F1BE0>
+2021-05-29 14:12:19,730|DEBUG|SuperPage.py:32|----借阅清单----
+2021-05-29 14:12:19,730|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:12:19,730|DEBUG|SuperPage.py:58|查询(S),归还图书(R)
+2021-05-29 14:12:20,830|DEBUG|SuperPage.py:69|用户输入的命令是: s
+2021-05-29 14:12:20,830|DEBUG|SuperPage.py:84|找到指令:
+2021-05-29 14:12:20,830|DEBUG|SuperPage.py:85|BookActions.do_borrowlist
+2021-05-29 14:12:20,830|INFO|SuperPage.py:91|>>>action:BookActions.do_borrowlist
+2021-05-29 14:12:20,830|INFO|PublicApi.py:68|登陆检查：
+2021-05-29 14:12:20,830|INFO|PublicApi.py:69|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:12:20,830|INFO|PublicApi.py:70|<pages.BorrowListPage.BorrowListPage object at 0x000001EC4C853790>
+2021-05-29 14:12:20,831|DEBUG|BorrowregModel.py:87|数据文件: D:\PycharmProjects\SmartBook11\models\Borrowreg.dbx
+2021-05-29 14:12:20,831|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook11\models\Bookinfo.dbx
+2021-05-29 14:12:20,832|INFO|BookinfoModel.py:150|SELECT BY ID:
+2021-05-29 14:12:20,832|INFO|BookinfoModel.py:151|Bookinfo:(4,01,《哈利波特》,美·哈利,0,True,admin)
+2021-05-29 14:12:20,832|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook11\models\Bookinfo.dbx
+2021-05-29 14:12:20,832|INFO|BookinfoModel.py:150|SELECT BY ID:
+2021-05-29 14:12:20,833|INFO|BookinfoModel.py:151|Bookinfo:(14,01,《afa》,afafa,0,False,admin)
+2021-05-29 14:12:23,507|DEBUG|SuperPage.py:32|----借阅清单----
+2021-05-29 14:12:23,507|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:12:23,507|DEBUG|SuperPage.py:58|查询(S),归还图书(R)
+2021-05-29 14:12:24,043|DEBUG|SuperPage.py:69|用户输入的命令是: r
+2021-05-29 14:12:24,043|DEBUG|SuperPage.py:84|找到指令:
+2021-05-29 14:12:24,043|DEBUG|SuperPage.py:85|BookActions.do_return
+2021-05-29 14:12:24,043|INFO|SuperPage.py:91|>>>action:BookActions.do_return
+2021-05-29 14:12:24,044|INFO|PublicApi.py:68|登陆检查：
+2021-05-29 14:12:24,044|INFO|PublicApi.py:69|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:12:24,044|INFO|PublicApi.py:70|<pages.BorrowListPage.BorrowListPage object at 0x000001EC4C853790>
+2021-05-29 14:12:24,917|DEBUG|BorrowregModel.py:87|数据文件: D:\PycharmProjects\SmartBook11\models\Borrowreg.dbx
+2021-05-29 14:12:24,917|INFO|BorrowregModel.py:124|SELECT BY ID:
+2021-05-29 14:12:24,917|INFO|BorrowregModel.py:125|Borrowreg:(1,4,7,B,None)
+2021-05-29 14:12:24,917|DEBUG|BorrowregModel.py:87|数据文件: D:\PycharmProjects\SmartBook11\models\Borrowreg.dbx
+2021-05-29 14:12:24,917|DEBUG|BorrowregModel.py:135|Borrowreg:(1,4,7,B,None)
+2021-05-29 14:12:24,918|DEBUG|BorrowregModel.py:136|Borrowreg:(1,4,7,R,7)
+2021-05-29 14:12:24,918|INFO|BorrowregModel.py:141|UPDATE borrow:
+2021-05-29 14:12:24,918|INFO|BorrowregModel.py:142|Borrowreg:(1,4,7,R,7)
+2021-05-29 14:12:24,918|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook11\models\Bookinfo.dbx
+2021-05-29 14:12:24,918|INFO|BookinfoModel.py:150|SELECT BY ID:
+2021-05-29 14:12:24,919|INFO|BookinfoModel.py:151|Bookinfo:(4,01,《哈利波特》,美·哈利,0,True,admin)
+2021-05-29 14:12:24,919|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook11\models\Bookinfo.dbx
+2021-05-29 14:12:24,919|DEBUG|BookinfoModel.py:161|Bookinfo:(4,01,《哈利波特》,美·哈利,0,True,admin)
+2021-05-29 14:12:24,919|DEBUG|BookinfoModel.py:162|Bookinfo:(4,01,《哈利波特》,美·哈利,0,False,admin)
+2021-05-29 14:12:24,919|INFO|BookinfoModel.py:169|UPDATE book:
+2021-05-29 14:12:24,919|INFO|BookinfoModel.py:170|Bookinfo:(4,01,《哈利波特》,美·哈利,0,False,admin)
+2021-05-29 14:12:26,322|DEBUG|SuperPage.py:32|----借阅清单----
+2021-05-29 14:12:26,322|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:12:26,322|DEBUG|SuperPage.py:58|查询(S),归还图书(R)
+2021-05-29 14:12:27,707|DEBUG|SuperPage.py:69|用户输入的命令是: s
+2021-05-29 14:12:27,707|DEBUG|SuperPage.py:84|找到指令:
+2021-05-29 14:12:27,707|DEBUG|SuperPage.py:85|BookActions.do_borrowlist
+2021-05-29 14:12:27,707|INFO|SuperPage.py:91|>>>action:BookActions.do_borrowlist
+2021-05-29 14:12:27,708|INFO|PublicApi.py:68|登陆检查：
+2021-05-29 14:12:27,708|INFO|PublicApi.py:69|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:12:27,708|INFO|PublicApi.py:70|<pages.BorrowListPage.BorrowListPage object at 0x000001EC4C853790>
+2021-05-29 14:12:27,708|DEBUG|BorrowregModel.py:87|数据文件: D:\PycharmProjects\SmartBook11\models\Borrowreg.dbx
+2021-05-29 14:12:27,709|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook11\models\Bookinfo.dbx
+2021-05-29 14:12:27,709|INFO|BookinfoModel.py:150|SELECT BY ID:
+2021-05-29 14:12:27,709|INFO|BookinfoModel.py:151|Bookinfo:(4,01,《哈利波特》,美·哈利,0,False,admin)
+2021-05-29 14:12:27,710|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook11\models\Bookinfo.dbx
+2021-05-29 14:12:27,710|INFO|BookinfoModel.py:150|SELECT BY ID:
+2021-05-29 14:12:27,710|INFO|BookinfoModel.py:151|Bookinfo:(14,01,《afa》,afafa,0,False,admin)
+2021-05-29 14:12:32,070|DEBUG|SuperPage.py:32|----借阅清单----
+2021-05-29 14:12:32,070|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:12:32,070|DEBUG|SuperPage.py:58|查询(S),归还图书(R)
+2021-05-29 14:12:33,345|DEBUG|SuperPage.py:69|用户输入的命令是: h
+2021-05-29 14:12:33,376|DEBUG|SuperPage.py:32|
+2021-05-29 14:12:33,376|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:12:33,376|DEBUG|SuperPage.py:32|您好{self.user.realname},您是第{self.user.userid}个读者
+2021-05-29 14:12:33,376|DEBUG|SuperPage.py:33|['{self.user.realname}', '{self.user.userid}']
+2021-05-29 14:12:33,376|DEBUG|SuperPage.py:32|欢迎来到,图书管理系统(SmartBook)
+2021-05-29 14:12:33,376|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:12:33,376|DEBUG|SuperPage.py:32|在册登记图书(300), 借阅图书(5)
+2021-05-29 14:12:33,376|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:12:33,377|DEBUG|SuperPage.py:32|上次登陆: {self.user.last_date}
+2021-05-29 14:12:33,377|DEBUG|SuperPage.py:33|['{self.user.last_date}']
+2021-05-29 14:12:33,377|DEBUG|SuperPage.py:32|
+2021-05-29 14:12:33,377|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:12:33,377|DEBUG|SuperPage.py:58|个人信息(P),图书浏览(L),读者管理(U),借阅清单(S),注销(E)
+2021-05-29 14:12:36,778|DEBUG|SuperPage.py:69|用户输入的命令是: l
+2021-05-29 14:12:36,779|DEBUG|SuperPage.py:84|找到指令:
+2021-05-29 14:12:36,779|DEBUG|SuperPage.py:85|BookActions.book_list
+2021-05-29 14:12:36,779|INFO|SuperPage.py:91|>>>action:BookActions.book_list
+2021-05-29 14:12:36,779|INFO|PublicApi.py:68|登陆检查：
+2021-05-29 14:12:36,779|INFO|PublicApi.py:69|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:12:36,779|INFO|PublicApi.py:70|<pages.HomePage.HomePage object at 0x000001EC4C8F1BE0>
+2021-05-29 14:12:36,804|DEBUG|SuperPage.py:32|----图书浏览----
+2021-05-29 14:12:36,804|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:12:36,804|DEBUG|SuperPage.py:32|在册图书({len(BookinfoDAO.select(p_state='normal'))})册, 借阅({len(BookinfoDAO.select(p_is_borrow=True))})册
+2021-05-29 14:12:36,804|DEBUG|SuperPage.py:33|["{len(BookinfoDAO.select(p_state='normal'))}", '{len(BookinfoDAO.select(p_is_borrow=True))}']
+2021-05-29 14:12:36,804|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook11\models\Bookinfo.dbx
+2021-05-29 14:12:36,805|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook11\models\Bookinfo.dbx
+2021-05-29 14:12:36,805|DEBUG|SuperPage.py:58|登记图书(N),查询图书(S),借阅(U),修改(M),删除(D)
+2021-05-29 14:12:41,939|DEBUG|SuperPage.py:69|用户输入的命令是: s
+2021-05-29 14:12:41,940|DEBUG|SuperPage.py:84|找到指令:
+2021-05-29 14:12:41,940|DEBUG|SuperPage.py:85|BookActions.do_booklist
+2021-05-29 14:12:41,940|INFO|SuperPage.py:91|>>>action:BookActions.do_booklist
+2021-05-29 14:12:41,940|INFO|PublicApi.py:68|登陆检查：
+2021-05-29 14:12:41,940|INFO|PublicApi.py:69|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:12:41,940|INFO|PublicApi.py:70|<pages.BookListPage.BookListPage object at 0x000001EC4C9B3D90>
+2021-05-29 14:12:45,269|DEBUG|BookActions.py:100|
+2021-05-29 14:12:45,269|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook11\models\Bookinfo.dbx
+2021-05-29 14:12:50,313|DEBUG|SuperPage.py:32|----图书浏览----
+2021-05-29 14:12:50,314|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:12:50,314|DEBUG|SuperPage.py:32|在册图书({len(BookinfoDAO.select(p_state='normal'))})册, 借阅({len(BookinfoDAO.select(p_is_borrow=True))})册
+2021-05-29 14:12:50,314|DEBUG|SuperPage.py:33|["{len(BookinfoDAO.select(p_state='normal'))}", '{len(BookinfoDAO.select(p_is_borrow=True))}']
+2021-05-29 14:12:50,314|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook11\models\Bookinfo.dbx
+2021-05-29 14:12:50,314|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook11\models\Bookinfo.dbx
+2021-05-29 14:12:50,314|DEBUG|SuperPage.py:58|登记图书(N),查询图书(S),借阅(U),修改(M),删除(D)
+2021-05-29 14:12:51,209|DEBUG|SuperPage.py:69|用户输入的命令是: u
+2021-05-29 14:12:51,209|DEBUG|SuperPage.py:84|找到指令:
+2021-05-29 14:12:51,209|DEBUG|SuperPage.py:85|BookActions.do_borrow
+2021-05-29 14:12:51,209|INFO|SuperPage.py:91|>>>action:BookActions.do_borrow
+2021-05-29 14:12:51,209|INFO|PublicApi.py:68|登陆检查：
+2021-05-29 14:12:51,209|INFO|PublicApi.py:69|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:12:51,209|INFO|PublicApi.py:70|<pages.BookListPage.BookListPage object at 0x000001EC4C9B3D90>
+2021-05-29 14:12:52,440|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook11\models\Bookinfo.dbx
+2021-05-29 14:12:52,440|INFO|BookinfoModel.py:150|SELECT BY ID:
+2021-05-29 14:12:52,441|INFO|BookinfoModel.py:151|Bookinfo:(8,01,《红楼梦》,曹雪芹,0,False,admin)
+2021-05-29 14:12:55,488|DEBUG|BorrowregModel.py:87|数据文件: D:\PycharmProjects\SmartBook11\models\Borrowreg.dbx
+2021-05-29 14:12:55,488|INFO|BorrowregModel.py:75|INSERT borrow:
+2021-05-29 14:12:55,489|INFO|BorrowregModel.py:76|Borrowreg:(3,8,7,B,None)
+2021-05-29 14:12:55,489|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook11\models\Bookinfo.dbx
+2021-05-29 14:12:55,489|DEBUG|BookinfoModel.py:161|Bookinfo:(8,01,《红楼梦》,曹雪芹,0,False,admin)
+2021-05-29 14:12:55,489|DEBUG|BookinfoModel.py:162|Bookinfo:(8,01,《红楼梦》,曹雪芹,0,True,admin)
+2021-05-29 14:12:55,489|INFO|BookinfoModel.py:169|UPDATE book:
+2021-05-29 14:12:55,489|INFO|BookinfoModel.py:170|Bookinfo:(8,01,《红楼梦》,曹雪芹,0,True,admin)
+2021-05-29 14:12:56,722|DEBUG|SuperPage.py:32|----图书浏览----
+2021-05-29 14:12:56,722|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:12:56,722|DEBUG|SuperPage.py:32|在册图书({len(BookinfoDAO.select(p_state='normal'))})册, 借阅({len(BookinfoDAO.select(p_is_borrow=True))})册
+2021-05-29 14:12:56,722|DEBUG|SuperPage.py:33|["{len(BookinfoDAO.select(p_state='normal'))}", '{len(BookinfoDAO.select(p_is_borrow=True))}']
+2021-05-29 14:12:56,722|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook11\models\Bookinfo.dbx
+2021-05-29 14:12:56,722|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook11\models\Bookinfo.dbx
+2021-05-29 14:12:56,723|DEBUG|SuperPage.py:58|登记图书(N),查询图书(S),借阅(U),修改(M),删除(D)
+2021-05-29 14:12:57,890|DEBUG|SuperPage.py:69|用户输入的命令是: s
+2021-05-29 14:12:57,890|DEBUG|SuperPage.py:84|找到指令:
+2021-05-29 14:12:57,890|DEBUG|SuperPage.py:85|BookActions.do_booklist
+2021-05-29 14:12:57,890|INFO|SuperPage.py:91|>>>action:BookActions.do_booklist
+2021-05-29 14:12:57,890|INFO|PublicApi.py:68|登陆检查：
+2021-05-29 14:12:57,890|INFO|PublicApi.py:69|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:12:57,890|INFO|PublicApi.py:70|<pages.BookListPage.BookListPage object at 0x000001EC4C9B3D90>
+2021-05-29 14:12:58,564|DEBUG|BookActions.py:100|
+2021-05-29 14:12:58,565|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook11\models\Bookinfo.dbx
+2021-05-29 14:13:01,205|DEBUG|SuperPage.py:32|----图书浏览----
+2021-05-29 14:13:01,205|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:13:01,206|DEBUG|SuperPage.py:32|在册图书({len(BookinfoDAO.select(p_state='normal'))})册, 借阅({len(BookinfoDAO.select(p_is_borrow=True))})册
+2021-05-29 14:13:01,206|DEBUG|SuperPage.py:33|["{len(BookinfoDAO.select(p_state='normal'))}", '{len(BookinfoDAO.select(p_is_borrow=True))}']
+2021-05-29 14:13:01,206|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook11\models\Bookinfo.dbx
+2021-05-29 14:13:01,206|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook11\models\Bookinfo.dbx
+2021-05-29 14:13:01,207|DEBUG|SuperPage.py:58|登记图书(N),查询图书(S),借阅(U),修改(M),删除(D)
+2021-05-29 14:13:02,963|DEBUG|SuperPage.py:69|用户输入的命令是: u
+2021-05-29 14:13:02,963|DEBUG|SuperPage.py:84|找到指令:
+2021-05-29 14:13:02,963|DEBUG|SuperPage.py:85|BookActions.do_borrow
+2021-05-29 14:13:02,963|INFO|SuperPage.py:91|>>>action:BookActions.do_borrow
+2021-05-29 14:13:02,963|INFO|PublicApi.py:68|登陆检查：
+2021-05-29 14:13:02,964|INFO|PublicApi.py:69|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:13:02,964|INFO|PublicApi.py:70|<pages.BookListPage.BookListPage object at 0x000001EC4C9B3D90>
+2021-05-29 14:13:04,292|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook11\models\Bookinfo.dbx
+2021-05-29 14:13:04,292|INFO|BookinfoModel.py:150|SELECT BY ID:
+2021-05-29 14:13:04,292|INFO|BookinfoModel.py:151|Bookinfo:(6,01,《三国演义》,罗贯中,0,False,admin)
+2021-05-29 14:13:05,548|DEBUG|BorrowregModel.py:87|数据文件: D:\PycharmProjects\SmartBook11\models\Borrowreg.dbx
+2021-05-29 14:13:05,549|INFO|BorrowregModel.py:75|INSERT borrow:
+2021-05-29 14:13:05,549|INFO|BorrowregModel.py:76|Borrowreg:(4,6,7,B,None)
+2021-05-29 14:13:05,549|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook11\models\Bookinfo.dbx
+2021-05-29 14:13:05,549|DEBUG|BookinfoModel.py:161|Bookinfo:(6,01,《三国演义》,罗贯中,0,False,admin)
+2021-05-29 14:13:05,549|DEBUG|BookinfoModel.py:162|Bookinfo:(6,01,《三国演义》,罗贯中,0,True,admin)
+2021-05-29 14:13:05,550|INFO|BookinfoModel.py:169|UPDATE book:
+2021-05-29 14:13:05,550|INFO|BookinfoModel.py:170|Bookinfo:(6,01,《三国演义》,罗贯中,0,True,admin)
+2021-05-29 14:13:06,221|DEBUG|SuperPage.py:32|----图书浏览----
+2021-05-29 14:13:06,221|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:13:06,221|DEBUG|SuperPage.py:32|在册图书({len(BookinfoDAO.select(p_state='normal'))})册, 借阅({len(BookinfoDAO.select(p_is_borrow=True))})册
+2021-05-29 14:13:06,221|DEBUG|SuperPage.py:33|["{len(BookinfoDAO.select(p_state='normal'))}", '{len(BookinfoDAO.select(p_is_borrow=True))}']
+2021-05-29 14:13:06,221|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook11\models\Bookinfo.dbx
+2021-05-29 14:13:06,222|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook11\models\Bookinfo.dbx
+2021-05-29 14:13:06,222|DEBUG|SuperPage.py:58|登记图书(N),查询图书(S),借阅(U),修改(M),删除(D)
+2021-05-29 14:13:08,420|DEBUG|SuperPage.py:69|用户输入的命令是: h
+2021-05-29 14:13:08,447|DEBUG|SuperPage.py:32|
+2021-05-29 14:13:08,448|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:13:08,448|DEBUG|SuperPage.py:32|您好{self.user.realname},您是第{self.user.userid}个读者
+2021-05-29 14:13:08,448|DEBUG|SuperPage.py:33|['{self.user.realname}', '{self.user.userid}']
+2021-05-29 14:13:08,448|DEBUG|SuperPage.py:32|欢迎来到,图书管理系统(SmartBook)
+2021-05-29 14:13:08,448|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:13:08,448|DEBUG|SuperPage.py:32|在册登记图书(300), 借阅图书(5)
+2021-05-29 14:13:08,448|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:13:08,448|DEBUG|SuperPage.py:32|上次登陆: {self.user.last_date}
+2021-05-29 14:13:08,448|DEBUG|SuperPage.py:33|['{self.user.last_date}']
+2021-05-29 14:13:08,448|DEBUG|SuperPage.py:32|
+2021-05-29 14:13:08,448|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:13:08,448|DEBUG|SuperPage.py:58|个人信息(P),图书浏览(L),读者管理(U),借阅清单(S),注销(E)
+2021-05-29 14:13:09,993|DEBUG|SuperPage.py:69|用户输入的命令是: s
+2021-05-29 14:13:09,993|DEBUG|SuperPage.py:84|找到指令:
+2021-05-29 14:13:09,993|DEBUG|SuperPage.py:85|BookActions.book_borrowlist
+2021-05-29 14:13:09,993|INFO|SuperPage.py:91|>>>action:BookActions.book_borrowlist
+2021-05-29 14:13:09,994|INFO|PublicApi.py:68|登陆检查：
+2021-05-29 14:13:09,994|INFO|PublicApi.py:69|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:13:09,994|INFO|PublicApi.py:70|<pages.HomePage.HomePage object at 0x000001EC4C8F1BE0>
+2021-05-29 14:13:10,018|DEBUG|SuperPage.py:32|----借阅清单----
+2021-05-29 14:13:10,018|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:13:10,018|DEBUG|SuperPage.py:58|查询(S),归还图书(R)
+2021-05-29 14:13:11,999|DEBUG|SuperPage.py:69|用户输入的命令是: s
+2021-05-29 14:13:11,999|DEBUG|SuperPage.py:84|找到指令:
+2021-05-29 14:13:11,999|DEBUG|SuperPage.py:85|BookActions.do_borrowlist
+2021-05-29 14:13:11,999|INFO|SuperPage.py:91|>>>action:BookActions.do_borrowlist
+2021-05-29 14:13:12,000|INFO|PublicApi.py:68|登陆检查：
+2021-05-29 14:13:12,000|INFO|PublicApi.py:69|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:13:12,000|INFO|PublicApi.py:70|<pages.BorrowListPage.BorrowListPage object at 0x000001EC4E438AC0>
+2021-05-29 14:13:12,000|DEBUG|BorrowregModel.py:87|数据文件: D:\PycharmProjects\SmartBook11\models\Borrowreg.dbx
+2021-05-29 14:13:12,001|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook11\models\Bookinfo.dbx
+2021-05-29 14:13:12,001|INFO|BookinfoModel.py:150|SELECT BY ID:
+2021-05-29 14:13:12,001|INFO|BookinfoModel.py:151|Bookinfo:(4,01,《哈利波特》,美·哈利,0,False,admin)
+2021-05-29 14:13:12,001|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook11\models\Bookinfo.dbx
+2021-05-29 14:13:12,002|INFO|BookinfoModel.py:150|SELECT BY ID:
+2021-05-29 14:13:12,002|INFO|BookinfoModel.py:151|Bookinfo:(14,01,《afa》,afafa,0,False,admin)
+2021-05-29 14:13:12,002|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook11\models\Bookinfo.dbx
+2021-05-29 14:13:12,002|INFO|BookinfoModel.py:150|SELECT BY ID:
+2021-05-29 14:13:12,002|INFO|BookinfoModel.py:151|Bookinfo:(8,01,《红楼梦》,曹雪芹,0,True,admin)
+2021-05-29 14:13:12,003|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook11\models\Bookinfo.dbx
+2021-05-29 14:13:12,004|INFO|BookinfoModel.py:150|SELECT BY ID:
+2021-05-29 14:13:12,004|INFO|BookinfoModel.py:151|Bookinfo:(6,01,《三国演义》,罗贯中,0,True,admin)
+2021-05-29 14:13:32,477|DEBUG|SuperPage.py:32|----借阅清单----
+2021-05-29 14:13:32,477|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:13:32,478|DEBUG|SuperPage.py:58|查询(S),归还图书(R)
+2021-05-29 14:28:35,327|DEBUG|SuperPage.py:69|用户输入的命令是: h
+2021-05-29 14:28:35,358|DEBUG|SuperPage.py:32|
+2021-05-29 14:28:35,358|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:28:35,358|DEBUG|SuperPage.py:32|您好{self.user.realname},您是第{self.user.userid}个读者
+2021-05-29 14:28:35,358|DEBUG|SuperPage.py:33|['{self.user.realname}', '{self.user.userid}']
+2021-05-29 14:28:35,359|DEBUG|SuperPage.py:32|欢迎来到,图书管理系统(SmartBook)
+2021-05-29 14:28:35,359|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:28:35,359|DEBUG|SuperPage.py:32|在册登记图书(300), 借阅图书(5)
+2021-05-29 14:28:35,359|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:28:35,359|DEBUG|SuperPage.py:32|上次登陆: {self.user.last_date}
+2021-05-29 14:28:35,359|DEBUG|SuperPage.py:33|['{self.user.last_date}']
+2021-05-29 14:28:35,359|DEBUG|SuperPage.py:32|
+2021-05-29 14:28:35,359|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:28:35,359|DEBUG|SuperPage.py:58|个人信息(P),图书浏览(L),读者管理(U),借阅清单(S),注销(E)
+2021-05-29 14:28:37,213|DEBUG|SuperPage.py:69|用户输入的命令是: u
+2021-05-29 14:28:37,213|DEBUG|SuperPage.py:84|找到指令:
+2021-05-29 14:28:37,213|DEBUG|SuperPage.py:85|UserActions.user_readerlist
+2021-05-29 14:28:37,214|INFO|SuperPage.py:91|>>>action:UserActions.user_readerlist
+2021-05-29 14:28:37,215|INFO|PublicApi.py:50|管理员权限检查：
+2021-05-29 14:28:37,215|INFO|PublicApi.py:51|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:28:37,215|INFO|PublicApi.py:52|<pages.HomePage.HomePage object at 0x000001EC4C8F1BE0>
+2021-05-29 14:28:37,235|DEBUG|SuperPage.py:32|----读者管理----
+2021-05-29 14:28:37,235|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:28:37,235|DEBUG|SuperPage.py:32|注册读者({len(UserinfoDAO.select(level='reader'))})
+2021-05-29 14:28:37,235|DEBUG|SuperPage.py:33|["{len(UserinfoDAO.select(level='reader'))}"]
+2021-05-29 14:28:37,236|DEBUG|UserinfoModel.py:114|continue
+2021-05-29 14:28:37,236|DEBUG|UserinfoModel.py:115|Userinfo:(6,newuser,7c293728f7da06d023a096fae0a44df4,新用户新昵称,15677779999,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:28:37,236|DEBUG|UserinfoModel.py:114|continue
+2021-05-29 14:28:37,236|DEBUG|UserinfoModel.py:115|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:28:37,236|INFO|SuperPage.py:91|>>>action:UserActions.do_readerlist
+2021-05-29 14:28:37,236|INFO|PublicApi.py:50|管理员权限检查：
+2021-05-29 14:28:37,236|INFO|PublicApi.py:51|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:28:37,236|INFO|PublicApi.py:52|<pages.ReaderListPage.ReaderListPage object at 0x000001EC4E438BB0>
+2021-05-29 14:28:40,841|DEBUG|UserActions.py:233|
+2021-05-29 14:28:40,841|DEBUG|UserinfoModel.py:114|continue
+2021-05-29 14:28:40,841|DEBUG|UserinfoModel.py:115|Userinfo:(6,newuser,7c293728f7da06d023a096fae0a44df4,新用户新昵称,15677779999,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:28:40,841|DEBUG|UserinfoModel.py:114|continue
+2021-05-29 14:28:40,842|DEBUG|UserinfoModel.py:115|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:28:44,940|DEBUG|SuperPage.py:32|----读者管理----
+2021-05-29 14:28:44,941|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:28:44,941|DEBUG|SuperPage.py:32|注册读者({len(UserinfoDAO.select(level='reader'))})
+2021-05-29 14:28:44,941|DEBUG|SuperPage.py:33|["{len(UserinfoDAO.select(level='reader'))}"]
+2021-05-29 14:28:44,941|DEBUG|UserinfoModel.py:114|continue
+2021-05-29 14:28:44,941|DEBUG|UserinfoModel.py:115|Userinfo:(6,newuser,7c293728f7da06d023a096fae0a44df4,新用户新昵称,15677779999,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:28:44,941|DEBUG|UserinfoModel.py:114|continue
+2021-05-29 14:28:44,941|DEBUG|UserinfoModel.py:115|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:28:44,941|INFO|SuperPage.py:91|>>>action:UserActions.do_readerlist
+2021-05-29 14:28:44,941|INFO|PublicApi.py:50|管理员权限检查：
+2021-05-29 14:28:44,941|INFO|PublicApi.py:51|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:28:44,941|INFO|PublicApi.py:52|<pages.ReaderListPage.ReaderListPage object at 0x000001EC4E438BB0>
+2021-05-29 14:28:47,423|DEBUG|UserActions.py:233|i
+2021-05-29 14:28:47,916|DEBUG|UserActions.py:264|1
+2021-05-29 14:28:47,949|DEBUG|SuperPage.py:32|
+2021-05-29 14:28:47,949|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:28:47,950|DEBUG|SuperPage.py:32|----读者详情----
+2021-05-29 14:28:47,950|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:28:47,950|DEBUG|SuperPage.py:32|编号: {self.reader.userid}
+2021-05-29 14:28:47,950|DEBUG|SuperPage.py:33|['{self.reader.userid}']
+2021-05-29 14:28:47,950|DEBUG|SuperPage.py:32|用户名: {self.reader.username}
+2021-05-29 14:28:47,950|DEBUG|SuperPage.py:33|['{self.reader.username}']
+2021-05-29 14:28:47,950|DEBUG|SuperPage.py:32|手机号: {self.reader.phone}
+2021-05-29 14:28:47,950|DEBUG|SuperPage.py:33|['{self.reader.phone}']
+2021-05-29 14:28:47,951|DEBUG|SuperPage.py:32|
+2021-05-29 14:28:47,951|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:28:47,951|DEBUG|SuperPage.py:58|设为管理员(A),借阅清单(S)
+2021-05-29 14:28:50,345|DEBUG|SuperPage.py:69|用户输入的命令是: s
+2021-05-29 14:28:50,345|DEBUG|SuperPage.py:84|找到指令:
+2021-05-29 14:28:50,345|DEBUG|SuperPage.py:85|UserActions.user_register
+2021-05-29 14:28:50,345|INFO|SuperPage.py:91|>>>action:UserActions.user_register
+2021-05-29 14:28:50,370|DEBUG|SuperPage.py:32|
+2021-05-29 14:28:50,370|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:28:50,370|DEBUG|SuperPage.py:32|用户注册
+2021-05-29 14:28:50,370|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:28:50,370|DEBUG|SuperPage.py:32|
+2021-05-29 14:28:50,370|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:28:50,371|INFO|SuperPage.py:91|>>>action:UserActions.do_register
+2021-05-29 14:31:39,150|DEBUG|UserActions.py:33|用户名: quit
+2021-05-29 14:31:49,074|DEBUG|SuperPage.py:32|
+2021-05-29 14:31:49,075|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:31:49,075|DEBUG|SuperPage.py:32|您好{self.user.realname},您是第{self.user.userid}个读者
+2021-05-29 14:31:49,075|DEBUG|SuperPage.py:33|['{self.user.realname}', '{self.user.userid}']
+2021-05-29 14:31:49,075|DEBUG|SuperPage.py:32|欢迎来到,图书管理系统(SmartBook)
+2021-05-29 14:31:49,075|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:31:49,075|DEBUG|SuperPage.py:32|在册登记图书(300), 借阅图书(5)
+2021-05-29 14:31:49,075|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:31:49,075|DEBUG|SuperPage.py:32|上次登陆: {self.user.last_date}
+2021-05-29 14:31:49,076|DEBUG|SuperPage.py:33|['{self.user.last_date}']
+2021-05-29 14:31:49,076|DEBUG|SuperPage.py:32|
+2021-05-29 14:31:49,076|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:31:49,076|DEBUG|SuperPage.py:58|个人信息(P),图书浏览(L),读者管理(U),借阅清单(S),注销(E)
+2021-05-29 14:36:03,353|DEBUG|SuperPage.py:32|
+2021-05-29 14:36:03,354|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:36:03,354|DEBUG|SuperPage.py:32|您好{self.user.realname},您是第{self.user.userid}个读者
+2021-05-29 14:36:03,354|DEBUG|SuperPage.py:33|['{self.user.realname}', '{self.user.userid}']
+2021-05-29 14:36:03,354|DEBUG|SuperPage.py:32|欢迎来到,图书管理系统(SmartBook)
+2021-05-29 14:36:03,354|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:36:03,354|DEBUG|SuperPage.py:32|在册登记图书(300), 借阅图书(5)
+2021-05-29 14:36:03,354|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:36:03,354|DEBUG|SuperPage.py:32|上次登陆: {self.user.last_date}
+2021-05-29 14:36:03,354|DEBUG|SuperPage.py:33|['{self.user.last_date}']
+2021-05-29 14:36:03,355|DEBUG|SuperPage.py:32|
+2021-05-29 14:36:03,355|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:36:03,355|DEBUG|SuperPage.py:58|个人信息(P),图书浏览(L),读者管理(U),借阅清单(S),注销(E)
+2021-05-29 14:36:10,133|DEBUG|SuperPage.py:69|用户输入的命令是: u
+2021-05-29 14:36:10,133|DEBUG|SuperPage.py:84|找到指令:
+2021-05-29 14:36:10,133|DEBUG|SuperPage.py:85|UserActions.user_readerlist
+2021-05-29 14:36:10,146|INFO|SuperPage.py:91|>>>action:UserActions.user_readerlist
+2021-05-29 14:36:10,146|INFO|PublicApi.py:50|管理员权限检查：
+2021-05-29 14:36:10,147|INFO|PublicApi.py:51|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:36:10,147|INFO|PublicApi.py:52|<pages.HomePage.HomePage object at 0x000001D80CAE3790>
+2021-05-29 14:36:10,168|DEBUG|SuperPage.py:32|----读者管理----
+2021-05-29 14:36:10,168|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:36:10,169|DEBUG|SuperPage.py:32|注册读者({len(UserinfoDAO.select(level='reader'))})
+2021-05-29 14:36:10,169|DEBUG|SuperPage.py:33|["{len(UserinfoDAO.select(level='reader'))}"]
+2021-05-29 14:36:10,169|DEBUG|UserinfoModel.py:114|continue
+2021-05-29 14:36:10,169|DEBUG|UserinfoModel.py:115|Userinfo:(6,newuser,7c293728f7da06d023a096fae0a44df4,新用户新昵称,15677779999,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:36:10,169|DEBUG|UserinfoModel.py:114|continue
+2021-05-29 14:36:10,169|DEBUG|UserinfoModel.py:115|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:36:10,169|INFO|SuperPage.py:91|>>>action:UserActions.do_readerlist
+2021-05-29 14:36:10,169|INFO|PublicApi.py:50|管理员权限检查：
+2021-05-29 14:36:10,170|INFO|PublicApi.py:51|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:36:10,170|INFO|PublicApi.py:52|<pages.ReaderListPage.ReaderListPage object at 0x000001D80CC66790>
+2021-05-29 14:36:12,527|DEBUG|UserActions.py:233|
+2021-05-29 14:36:12,527|DEBUG|UserinfoModel.py:114|continue
+2021-05-29 14:36:12,527|DEBUG|UserinfoModel.py:115|Userinfo:(6,newuser,7c293728f7da06d023a096fae0a44df4,新用户新昵称,15677779999,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:36:12,527|DEBUG|UserinfoModel.py:114|continue
+2021-05-29 14:36:12,527|DEBUG|UserinfoModel.py:115|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:36:26,571|DEBUG|UserActions.py:264|3
+2021-05-29 14:36:26,599|DEBUG|SuperPage.py:32|
+2021-05-29 14:36:26,599|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:36:26,599|DEBUG|SuperPage.py:32|----读者详情----
+2021-05-29 14:36:26,599|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:36:26,599|DEBUG|SuperPage.py:32|编号: {self.reader.userid}
+2021-05-29 14:36:26,599|DEBUG|SuperPage.py:33|['{self.reader.userid}']
+2021-05-29 14:36:26,599|DEBUG|SuperPage.py:32|用户名: {self.reader.username}
+2021-05-29 14:36:26,599|DEBUG|SuperPage.py:33|['{self.reader.username}']
+2021-05-29 14:36:26,599|DEBUG|SuperPage.py:32|手机号: {self.reader.phone}
+2021-05-29 14:36:26,599|DEBUG|SuperPage.py:33|['{self.reader.phone}']
+2021-05-29 14:36:26,599|DEBUG|SuperPage.py:32|
+2021-05-29 14:36:26,600|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:36:26,600|DEBUG|SuperPage.py:58|设为管理员(A),借阅清单(S)
+2021-05-29 14:36:37,950|DEBUG|SuperPage.py:69|用户输入的命令是: s
+2021-05-29 14:36:37,950|DEBUG|SuperPage.py:84|找到指令:
+2021-05-29 14:36:37,950|DEBUG|SuperPage.py:85|UserActions.user_register
+2021-05-29 14:36:37,950|INFO|SuperPage.py:91|>>>action:UserActions.user_register
+2021-05-29 14:36:37,975|DEBUG|SuperPage.py:32|
+2021-05-29 14:36:37,975|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:36:37,975|DEBUG|SuperPage.py:32|用户注册
+2021-05-29 14:36:37,976|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:36:37,976|DEBUG|SuperPage.py:32|
+2021-05-29 14:36:37,976|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:36:37,976|INFO|SuperPage.py:91|>>>action:UserActions.do_register
+2021-05-29 14:43:49,965|DEBUG|SuperPage.py:32|
+2021-05-29 14:43:49,965|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:43:49,966|DEBUG|SuperPage.py:32|您好{self.user.realname},您是第{self.user.userid}个读者
+2021-05-29 14:43:49,966|DEBUG|SuperPage.py:33|['{self.user.realname}', '{self.user.userid}']
+2021-05-29 14:43:49,966|DEBUG|SuperPage.py:32|欢迎来到,图书管理系统(SmartBook)
+2021-05-29 14:43:49,966|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:43:49,966|DEBUG|SuperPage.py:32|在册登记图书(300), 借阅图书(5)
+2021-05-29 14:43:49,966|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:43:49,966|DEBUG|SuperPage.py:32|上次登陆: {self.user.last_date}
+2021-05-29 14:43:49,966|DEBUG|SuperPage.py:33|['{self.user.last_date}']
+2021-05-29 14:43:49,966|DEBUG|SuperPage.py:32|
+2021-05-29 14:43:49,966|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:43:49,966|DEBUG|SuperPage.py:58|个人信息(P),图书浏览(L),读者管理(U),借阅清单(S),注销(E)
+2021-05-29 14:43:51,514|DEBUG|SuperPage.py:69|用户输入的命令是: s
+2021-05-29 14:43:51,514|DEBUG|SuperPage.py:84|找到指令:
+2021-05-29 14:43:51,514|DEBUG|SuperPage.py:85|BookActions.book_borrowlist
+2021-05-29 14:43:51,530|INFO|SuperPage.py:91|>>>action:BookActions.book_borrowlist
+2021-05-29 14:43:51,530|INFO|PublicApi.py:68|登陆检查：
+2021-05-29 14:43:51,530|INFO|PublicApi.py:69|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:43:51,530|INFO|PublicApi.py:70|<pages.HomePage.HomePage object at 0x0000024192E91BE0>
+2021-05-29 14:43:51,554|DEBUG|SuperPage.py:32|----借阅清单----
+2021-05-29 14:43:51,555|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:43:51,555|DEBUG|SuperPage.py:58|查询(S),归还图书(R)
+2021-05-29 14:43:52,659|DEBUG|SuperPage.py:69|用户输入的命令是: s
+2021-05-29 14:43:52,660|DEBUG|SuperPage.py:84|找到指令:
+2021-05-29 14:43:52,660|DEBUG|SuperPage.py:85|BookActions.do_borrowlist
+2021-05-29 14:43:52,660|INFO|SuperPage.py:91|>>>action:BookActions.do_borrowlist
+2021-05-29 14:43:52,660|INFO|PublicApi.py:68|登陆检查：
+2021-05-29 14:43:52,660|INFO|PublicApi.py:69|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:43:52,660|INFO|PublicApi.py:70|<pages.BorrowListPage.BorrowListPage object at 0x0000024192DF3790>
+2021-05-29 14:43:52,660|DEBUG|BorrowregModel.py:87|数据文件: D:\PycharmProjects\SmartBook12\models\Borrowreg.dbx
+2021-05-29 14:43:52,660|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook12\models\Bookinfo.dbx
+2021-05-29 14:43:52,661|INFO|BookinfoModel.py:150|SELECT BY ID:
+2021-05-29 14:43:52,661|INFO|BookinfoModel.py:151|Bookinfo:(4,01,《哈利波特》,美·哈利,0,False,admin)
+2021-05-29 14:43:52,661|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook12\models\Bookinfo.dbx
+2021-05-29 14:43:52,661|INFO|BookinfoModel.py:150|SELECT BY ID:
+2021-05-29 14:43:52,661|INFO|BookinfoModel.py:151|Bookinfo:(14,01,《afa》,afafa,0,False,admin)
+2021-05-29 14:43:52,661|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook12\models\Bookinfo.dbx
+2021-05-29 14:43:52,662|INFO|BookinfoModel.py:150|SELECT BY ID:
+2021-05-29 14:43:52,662|INFO|BookinfoModel.py:151|Bookinfo:(8,01,《红楼梦》,曹雪芹,0,True,admin)
+2021-05-29 14:43:52,662|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook12\models\Bookinfo.dbx
+2021-05-29 14:43:52,662|INFO|BookinfoModel.py:150|SELECT BY ID:
+2021-05-29 14:43:52,662|INFO|BookinfoModel.py:151|Bookinfo:(6,01,《三国演义》,罗贯中,0,True,admin)
+2021-05-29 14:43:58,221|DEBUG|SuperPage.py:32|----借阅清单----
+2021-05-29 14:43:58,222|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:43:58,222|DEBUG|SuperPage.py:58|查询(S),归还图书(R)
+2021-05-29 14:44:02,520|DEBUG|SuperPage.py:69|用户输入的命令是: h
+2021-05-29 14:44:02,546|DEBUG|SuperPage.py:32|
+2021-05-29 14:44:02,547|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:44:02,547|DEBUG|SuperPage.py:32|您好{self.user.realname},您是第{self.user.userid}个读者
+2021-05-29 14:44:02,547|DEBUG|SuperPage.py:33|['{self.user.realname}', '{self.user.userid}']
+2021-05-29 14:44:02,547|DEBUG|SuperPage.py:32|欢迎来到,图书管理系统(SmartBook)
+2021-05-29 14:44:02,547|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:44:02,547|DEBUG|SuperPage.py:32|在册登记图书(300), 借阅图书(5)
+2021-05-29 14:44:02,547|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:44:02,547|DEBUG|SuperPage.py:32|上次登陆: {self.user.last_date}
+2021-05-29 14:44:02,547|DEBUG|SuperPage.py:33|['{self.user.last_date}']
+2021-05-29 14:44:02,547|DEBUG|SuperPage.py:32|
+2021-05-29 14:44:02,548|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:44:02,548|DEBUG|SuperPage.py:58|个人信息(P),图书浏览(L),读者管理(U),借阅清单(S),注销(E)
+2021-05-29 14:44:03,970|DEBUG|SuperPage.py:69|用户输入的命令是: e
+2021-05-29 14:44:03,970|DEBUG|SuperPage.py:84|找到指令:
+2021-05-29 14:44:03,970|DEBUG|SuperPage.py:85|UserActions.user_logout
+2021-05-29 14:44:03,975|INFO|SuperPage.py:91|>>>action:UserActions.user_logout
+2021-05-29 14:44:03,975|INFO|PublicApi.py:68|登陆检查：
+2021-05-29 14:44:03,975|INFO|PublicApi.py:69|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:44:03,975|INFO|PublicApi.py:70|<pages.HomePage.HomePage object at 0x0000024192E91BE0>
+2021-05-29 14:44:03,997|DEBUG|SuperPage.py:32|
+2021-05-29 14:44:03,998|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:44:03,998|DEBUG|SuperPage.py:32|欢迎来到,
+2021-05-29 14:44:03,998|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:44:03,998|DEBUG|SuperPage.py:32|图书管理系统(SmartBook)
+2021-05-29 14:44:03,998|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:44:03,998|DEBUG|SuperPage.py:32|版本号: v0.1
+2021-05-29 14:44:03,998|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:44:03,998|DEBUG|SuperPage.py:32|开发者: Sniper
+2021-05-29 14:44:03,998|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:44:03,998|DEBUG|SuperPage.py:32|系统日期: yyyy年mm月dd日
+2021-05-29 14:44:03,999|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:44:03,999|DEBUG|SuperPage.py:32|
+2021-05-29 14:44:03,999|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:44:03,999|DEBUG|SuperPage.py:58|登陆(L),注册(R),找回密码(F),退出(Q)
+2021-05-29 14:44:04,269|DEBUG|SuperPage.py:69|用户输入的命令是: q
+2021-05-29 14:44:04,269|DEBUG|SuperPage.py:84|找到指令:
+2021-05-29 14:44:04,269|DEBUG|SuperPage.py:85|PublicActions.sys_exit
+2021-05-29 14:44:04,272|INFO|SuperPage.py:91|>>>action:PublicActions.sys_exit
+2021-05-29 14:44:04,272|INFO|PublicActions.py:13|用户退出系统
+2021-05-29 14:44:23,322|DEBUG|SuperPage.py:32|
+2021-05-29 14:44:23,322|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:44:23,322|DEBUG|SuperPage.py:32|您好{self.user.realname},您是第{self.user.userid}个读者
+2021-05-29 14:44:23,322|DEBUG|SuperPage.py:33|['{self.user.realname}', '{self.user.userid}']
+2021-05-29 14:44:23,322|DEBUG|SuperPage.py:32|欢迎来到,图书管理系统(SmartBook)
+2021-05-29 14:44:23,323|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:44:23,323|DEBUG|SuperPage.py:32|在册登记图书(300), 借阅图书(5)
+2021-05-29 14:44:23,323|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:44:23,323|DEBUG|SuperPage.py:32|上次登陆: {self.user.last_date}
+2021-05-29 14:44:23,323|DEBUG|SuperPage.py:33|['{self.user.last_date}']
+2021-05-29 14:44:23,323|DEBUG|SuperPage.py:32|
+2021-05-29 14:44:23,323|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:44:23,323|DEBUG|SuperPage.py:58|个人信息(P),图书浏览(L),借阅清单(S),注销(E)
+2021-05-29 14:44:31,006|DEBUG|SuperPage.py:69|用户输入的命令是: s
+2021-05-29 14:44:31,006|DEBUG|SuperPage.py:84|找到指令:
+2021-05-29 14:44:31,006|DEBUG|SuperPage.py:85|BookActions.book_borrowlist
+2021-05-29 14:44:31,008|INFO|SuperPage.py:91|>>>action:BookActions.book_borrowlist
+2021-05-29 14:44:31,009|INFO|PublicApi.py:68|登陆检查：
+2021-05-29 14:44:31,009|INFO|PublicApi.py:69|Userinfo:(1,sniper,b5f23a1b03f81c39c5b366093d840284,图书管理员,15622221111,False,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:44:31,009|INFO|PublicApi.py:70|<pages.HomePage.HomePage object at 0x000001FC764D1BE0>
+2021-05-29 14:44:31,028|DEBUG|SuperPage.py:32|----借阅清单----
+2021-05-29 14:44:31,028|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:44:31,029|DEBUG|SuperPage.py:58|查询(S),归还图书(R)
+2021-05-29 14:44:32,043|DEBUG|SuperPage.py:69|用户输入的命令是: s
+2021-05-29 14:44:32,043|DEBUG|SuperPage.py:84|找到指令:
+2021-05-29 14:44:32,043|DEBUG|SuperPage.py:85|BookActions.do_borrowlist
+2021-05-29 14:44:32,043|INFO|SuperPage.py:91|>>>action:BookActions.do_borrowlist
+2021-05-29 14:44:32,043|INFO|PublicApi.py:68|登陆检查：
+2021-05-29 14:44:32,043|INFO|PublicApi.py:69|Userinfo:(1,sniper,b5f23a1b03f81c39c5b366093d840284,图书管理员,15622221111,False,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:44:32,043|INFO|PublicApi.py:70|<pages.BorrowListPage.BorrowListPage object at 0x000001FC76433790>
+2021-05-29 14:44:32,043|DEBUG|BorrowregModel.py:87|数据文件: D:\PycharmProjects\SmartBook12\models\Borrowreg.dbx
+2021-05-29 14:44:33,796|DEBUG|SuperPage.py:32|----借阅清单----
+2021-05-29 14:44:33,796|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:44:33,796|DEBUG|SuperPage.py:58|查询(S),归还图书(R)
+2021-05-29 14:44:35,160|DEBUG|SuperPage.py:69|用户输入的命令是: h
+2021-05-29 14:44:35,186|DEBUG|SuperPage.py:32|
+2021-05-29 14:44:35,186|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:44:35,186|DEBUG|SuperPage.py:32|您好{self.user.realname},您是第{self.user.userid}个读者
+2021-05-29 14:44:35,186|DEBUG|SuperPage.py:33|['{self.user.realname}', '{self.user.userid}']
+2021-05-29 14:44:35,187|DEBUG|SuperPage.py:32|欢迎来到,图书管理系统(SmartBook)
+2021-05-29 14:44:35,187|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:44:35,187|DEBUG|SuperPage.py:32|在册登记图书(300), 借阅图书(5)
+2021-05-29 14:44:35,187|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:44:35,187|DEBUG|SuperPage.py:32|上次登陆: {self.user.last_date}
+2021-05-29 14:44:35,187|DEBUG|SuperPage.py:33|['{self.user.last_date}']
+2021-05-29 14:44:35,187|DEBUG|SuperPage.py:32|
+2021-05-29 14:44:35,187|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:44:35,187|DEBUG|SuperPage.py:58|个人信息(P),图书浏览(L),借阅清单(S),注销(E)
+2021-05-29 14:44:36,682|DEBUG|SuperPage.py:69|用户输入的命令是: l
+2021-05-29 14:44:36,682|DEBUG|SuperPage.py:84|找到指令:
+2021-05-29 14:44:36,682|DEBUG|SuperPage.py:85|BookActions.book_list
+2021-05-29 14:44:36,682|INFO|SuperPage.py:91|>>>action:BookActions.book_list
+2021-05-29 14:44:36,682|INFO|PublicApi.py:68|登陆检查：
+2021-05-29 14:44:36,682|INFO|PublicApi.py:69|Userinfo:(1,sniper,b5f23a1b03f81c39c5b366093d840284,图书管理员,15622221111,False,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:44:36,682|INFO|PublicApi.py:70|<pages.HomePage.HomePage object at 0x000001FC764D1BE0>
+2021-05-29 14:44:36,705|DEBUG|SuperPage.py:32|----图书浏览----
+2021-05-29 14:44:36,705|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:44:36,705|DEBUG|SuperPage.py:32|在册图书({len(BookinfoDAO.select(p_state='normal'))})册, 借阅({len(BookinfoDAO.select(p_is_borrow=True))})册
+2021-05-29 14:44:36,705|DEBUG|SuperPage.py:33|["{len(BookinfoDAO.select(p_state='normal'))}", '{len(BookinfoDAO.select(p_is_borrow=True))}']
+2021-05-29 14:44:36,705|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook12\models\Bookinfo.dbx
+2021-05-29 14:44:36,705|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook12\models\Bookinfo.dbx
+2021-05-29 14:44:36,705|DEBUG|SuperPage.py:58|查询图书(S),借阅(U)
+2021-05-29 14:44:37,904|DEBUG|SuperPage.py:69|用户输入的命令是: s
+2021-05-29 14:44:37,904|DEBUG|SuperPage.py:84|找到指令:
+2021-05-29 14:44:37,904|DEBUG|SuperPage.py:85|BookActions.do_booklist
+2021-05-29 14:44:37,904|INFO|SuperPage.py:91|>>>action:BookActions.do_booklist
+2021-05-29 14:44:37,904|INFO|PublicApi.py:68|登陆检查：
+2021-05-29 14:44:37,904|INFO|PublicApi.py:69|Userinfo:(1,sniper,b5f23a1b03f81c39c5b366093d840284,图书管理员,15622221111,False,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:44:37,904|INFO|PublicApi.py:70|<pages.BookListPage.BookListPage object at 0x000001FC76593D30>
+2021-05-29 14:44:38,779|DEBUG|BookActions.py:100|
+2021-05-29 14:44:38,779|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook12\models\Bookinfo.dbx
+2021-05-29 14:44:44,866|DEBUG|SuperPage.py:32|----图书浏览----
+2021-05-29 14:44:44,866|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:44:44,866|DEBUG|SuperPage.py:32|在册图书({len(BookinfoDAO.select(p_state='normal'))})册, 借阅({len(BookinfoDAO.select(p_is_borrow=True))})册
+2021-05-29 14:44:44,866|DEBUG|SuperPage.py:33|["{len(BookinfoDAO.select(p_state='normal'))}", '{len(BookinfoDAO.select(p_is_borrow=True))}']
+2021-05-29 14:44:44,867|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook12\models\Bookinfo.dbx
+2021-05-29 14:44:44,867|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook12\models\Bookinfo.dbx
+2021-05-29 14:44:44,867|DEBUG|SuperPage.py:58|查询图书(S),借阅(U)
+2021-05-29 14:44:47,298|DEBUG|SuperPage.py:69|用户输入的命令是: u
+2021-05-29 14:44:47,299|DEBUG|SuperPage.py:84|找到指令:
+2021-05-29 14:44:47,299|DEBUG|SuperPage.py:85|BookActions.do_borrow
+2021-05-29 14:44:47,299|INFO|SuperPage.py:91|>>>action:BookActions.do_borrow
+2021-05-29 14:44:47,299|INFO|PublicApi.py:68|登陆检查：
+2021-05-29 14:44:47,299|INFO|PublicApi.py:69|Userinfo:(1,sniper,b5f23a1b03f81c39c5b366093d840284,图书管理员,15622221111,False,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:44:47,299|INFO|PublicApi.py:70|<pages.BookListPage.BookListPage object at 0x000001FC76593D30>
+2021-05-29 14:44:48,371|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook12\models\Bookinfo.dbx
+2021-05-29 14:44:48,372|INFO|BookinfoModel.py:150|SELECT BY ID:
+2021-05-29 14:44:48,372|INFO|BookinfoModel.py:151|Bookinfo:(10,01,《大话西游》,周星星,0,False,admin)
+2021-05-29 14:44:49,527|DEBUG|BorrowregModel.py:87|数据文件: D:\PycharmProjects\SmartBook12\models\Borrowreg.dbx
+2021-05-29 14:44:49,528|INFO|BorrowregModel.py:75|INSERT borrow:
+2021-05-29 14:44:49,528|INFO|BorrowregModel.py:76|Borrowreg:(5,10,1,B,None)
+2021-05-29 14:44:49,528|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook12\models\Bookinfo.dbx
+2021-05-29 14:44:49,529|DEBUG|BookinfoModel.py:161|Bookinfo:(10,01,《大话西游》,周星星,0,False,admin)
+2021-05-29 14:44:49,529|DEBUG|BookinfoModel.py:162|Bookinfo:(10,01,《大话西游》,周星星,0,True,admin)
+2021-05-29 14:44:49,529|INFO|BookinfoModel.py:169|UPDATE book:
+2021-05-29 14:44:49,529|INFO|BookinfoModel.py:170|Bookinfo:(10,01,《大话西游》,周星星,0,True,admin)
+2021-05-29 14:44:50,200|DEBUG|SuperPage.py:32|----图书浏览----
+2021-05-29 14:44:50,201|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:44:50,201|DEBUG|SuperPage.py:32|在册图书({len(BookinfoDAO.select(p_state='normal'))})册, 借阅({len(BookinfoDAO.select(p_is_borrow=True))})册
+2021-05-29 14:44:50,201|DEBUG|SuperPage.py:33|["{len(BookinfoDAO.select(p_state='normal'))}", '{len(BookinfoDAO.select(p_is_borrow=True))}']
+2021-05-29 14:44:50,201|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook12\models\Bookinfo.dbx
+2021-05-29 14:44:50,201|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook12\models\Bookinfo.dbx
+2021-05-29 14:44:50,201|DEBUG|SuperPage.py:58|查询图书(S),借阅(U)
+2021-05-29 14:44:51,026|DEBUG|SuperPage.py:69|用户输入的命令是: u
+2021-05-29 14:44:51,026|DEBUG|SuperPage.py:84|找到指令:
+2021-05-29 14:44:51,026|DEBUG|SuperPage.py:85|BookActions.do_borrow
+2021-05-29 14:44:51,026|INFO|SuperPage.py:91|>>>action:BookActions.do_borrow
+2021-05-29 14:44:51,026|INFO|PublicApi.py:68|登陆检查：
+2021-05-29 14:44:51,026|INFO|PublicApi.py:69|Userinfo:(1,sniper,b5f23a1b03f81c39c5b366093d840284,图书管理员,15622221111,False,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:44:51,027|INFO|PublicApi.py:70|<pages.BookListPage.BookListPage object at 0x000001FC76593D30>
+2021-05-29 14:44:51,923|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook12\models\Bookinfo.dbx
+2021-05-29 14:44:51,923|INFO|BookinfoModel.py:150|SELECT BY ID:
+2021-05-29 14:44:51,923|INFO|BookinfoModel.py:151|Bookinfo:(11,02,《java编程思想》,王宝强,0,False,admin)
+2021-05-29 14:44:52,784|DEBUG|BorrowregModel.py:87|数据文件: D:\PycharmProjects\SmartBook12\models\Borrowreg.dbx
+2021-05-29 14:44:52,785|INFO|BorrowregModel.py:75|INSERT borrow:
+2021-05-29 14:44:52,785|INFO|BorrowregModel.py:76|Borrowreg:(6,11,1,B,None)
+2021-05-29 14:44:52,786|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook12\models\Bookinfo.dbx
+2021-05-29 14:44:52,786|DEBUG|BookinfoModel.py:161|Bookinfo:(11,02,《java编程思想》,王宝强,0,False,admin)
+2021-05-29 14:44:52,786|DEBUG|BookinfoModel.py:162|Bookinfo:(11,02,《java编程思想》,王宝强,0,True,admin)
+2021-05-29 14:44:52,786|INFO|BookinfoModel.py:169|UPDATE book:
+2021-05-29 14:44:52,786|INFO|BookinfoModel.py:170|Bookinfo:(11,02,《java编程思想》,王宝强,0,True,admin)
+2021-05-29 14:44:53,535|DEBUG|SuperPage.py:32|----图书浏览----
+2021-05-29 14:44:53,535|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:44:53,536|DEBUG|SuperPage.py:32|在册图书({len(BookinfoDAO.select(p_state='normal'))})册, 借阅({len(BookinfoDAO.select(p_is_borrow=True))})册
+2021-05-29 14:44:53,536|DEBUG|SuperPage.py:33|["{len(BookinfoDAO.select(p_state='normal'))}", '{len(BookinfoDAO.select(p_is_borrow=True))}']
+2021-05-29 14:44:53,536|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook12\models\Bookinfo.dbx
+2021-05-29 14:44:53,537|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook12\models\Bookinfo.dbx
+2021-05-29 14:44:53,538|DEBUG|SuperPage.py:58|查询图书(S),借阅(U)
+2021-05-29 14:44:55,049|DEBUG|SuperPage.py:69|用户输入的命令是: h
+2021-05-29 14:44:55,076|DEBUG|SuperPage.py:32|
+2021-05-29 14:44:55,076|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:44:55,076|DEBUG|SuperPage.py:32|您好{self.user.realname},您是第{self.user.userid}个读者
+2021-05-29 14:44:55,076|DEBUG|SuperPage.py:33|['{self.user.realname}', '{self.user.userid}']
+2021-05-29 14:44:55,077|DEBUG|SuperPage.py:32|欢迎来到,图书管理系统(SmartBook)
+2021-05-29 14:44:55,077|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:44:55,077|DEBUG|SuperPage.py:32|在册登记图书(300), 借阅图书(5)
+2021-05-29 14:44:55,077|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:44:55,077|DEBUG|SuperPage.py:32|上次登陆: {self.user.last_date}
+2021-05-29 14:44:55,077|DEBUG|SuperPage.py:33|['{self.user.last_date}']
+2021-05-29 14:44:55,077|DEBUG|SuperPage.py:32|
+2021-05-29 14:44:55,077|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:44:55,077|DEBUG|SuperPage.py:58|个人信息(P),图书浏览(L),借阅清单(S),注销(E)
+2021-05-29 14:44:56,202|DEBUG|SuperPage.py:69|用户输入的命令是: e
+2021-05-29 14:44:56,202|DEBUG|SuperPage.py:84|找到指令:
+2021-05-29 14:44:56,202|DEBUG|SuperPage.py:85|UserActions.user_logout
+2021-05-29 14:44:56,204|INFO|SuperPage.py:91|>>>action:UserActions.user_logout
+2021-05-29 14:44:56,204|INFO|PublicApi.py:68|登陆检查：
+2021-05-29 14:44:56,204|INFO|PublicApi.py:69|Userinfo:(1,sniper,b5f23a1b03f81c39c5b366093d840284,图书管理员,15622221111,False,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:44:56,204|INFO|PublicApi.py:70|<pages.HomePage.HomePage object at 0x000001FC764D1BE0>
+2021-05-29 14:44:56,224|DEBUG|SuperPage.py:32|
+2021-05-29 14:44:56,224|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:44:56,225|DEBUG|SuperPage.py:32|欢迎来到,
+2021-05-29 14:44:56,225|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:44:56,225|DEBUG|SuperPage.py:32|图书管理系统(SmartBook)
+2021-05-29 14:44:56,225|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:44:56,225|DEBUG|SuperPage.py:32|版本号: v0.1
+2021-05-29 14:44:56,225|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:44:56,225|DEBUG|SuperPage.py:32|开发者: Sniper
+2021-05-29 14:44:56,225|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:44:56,225|DEBUG|SuperPage.py:32|系统日期: yyyy年mm月dd日
+2021-05-29 14:44:56,225|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:44:56,225|DEBUG|SuperPage.py:32|
+2021-05-29 14:44:56,226|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:44:56,226|DEBUG|SuperPage.py:58|登陆(L),注册(R),找回密码(F),退出(Q)
+2021-05-29 14:44:56,821|DEBUG|SuperPage.py:69|用户输入的命令是: q
+2021-05-29 14:44:56,821|DEBUG|SuperPage.py:84|找到指令:
+2021-05-29 14:44:56,821|DEBUG|SuperPage.py:85|PublicActions.sys_exit
+2021-05-29 14:44:56,822|INFO|SuperPage.py:91|>>>action:PublicActions.sys_exit
+2021-05-29 14:44:56,822|INFO|PublicActions.py:13|用户退出系统
+2021-05-29 14:45:05,882|DEBUG|SuperPage.py:32|
+2021-05-29 14:45:05,882|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:45:05,882|DEBUG|SuperPage.py:32|您好{self.user.realname},您是第{self.user.userid}个读者
+2021-05-29 14:45:05,882|DEBUG|SuperPage.py:33|['{self.user.realname}', '{self.user.userid}']
+2021-05-29 14:45:05,883|DEBUG|SuperPage.py:32|欢迎来到,图书管理系统(SmartBook)
+2021-05-29 14:45:05,883|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:45:05,883|DEBUG|SuperPage.py:32|在册登记图书(300), 借阅图书(5)
+2021-05-29 14:45:05,883|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:45:05,883|DEBUG|SuperPage.py:32|上次登陆: {self.user.last_date}
+2021-05-29 14:45:05,883|DEBUG|SuperPage.py:33|['{self.user.last_date}']
+2021-05-29 14:45:05,883|DEBUG|SuperPage.py:32|
+2021-05-29 14:45:05,883|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:45:05,883|DEBUG|SuperPage.py:58|个人信息(P),图书浏览(L),读者管理(U),借阅清单(S),注销(E)
+2021-05-29 14:45:08,248|DEBUG|SuperPage.py:69|用户输入的命令是: u
+2021-05-29 14:45:08,248|DEBUG|SuperPage.py:84|找到指令:
+2021-05-29 14:45:08,248|DEBUG|SuperPage.py:85|UserActions.user_readerlist
+2021-05-29 14:45:08,252|INFO|SuperPage.py:91|>>>action:UserActions.user_readerlist
+2021-05-29 14:45:08,252|INFO|PublicApi.py:50|管理员权限检查：
+2021-05-29 14:45:08,252|INFO|PublicApi.py:51|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:45:08,252|INFO|PublicApi.py:52|<pages.HomePage.HomePage object at 0x0000022A604E1BE0>
+2021-05-29 14:45:08,277|DEBUG|SuperPage.py:32|----读者管理----
+2021-05-29 14:45:08,278|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:45:08,278|DEBUG|SuperPage.py:32|注册读者({len(UserinfoDAO.select(level='reader'))})
+2021-05-29 14:45:08,278|DEBUG|SuperPage.py:33|["{len(UserinfoDAO.select(level='reader'))}"]
+2021-05-29 14:45:08,278|DEBUG|UserinfoModel.py:114|continue
+2021-05-29 14:45:08,278|DEBUG|UserinfoModel.py:115|Userinfo:(6,newuser,7c293728f7da06d023a096fae0a44df4,新用户新昵称,15677779999,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:45:08,278|DEBUG|UserinfoModel.py:114|continue
+2021-05-29 14:45:08,278|DEBUG|UserinfoModel.py:115|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:45:08,278|INFO|SuperPage.py:91|>>>action:UserActions.do_readerlist
+2021-05-29 14:45:08,278|INFO|PublicApi.py:50|管理员权限检查：
+2021-05-29 14:45:08,278|INFO|PublicApi.py:51|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:45:08,278|INFO|PublicApi.py:52|<pages.ReaderListPage.ReaderListPage object at 0x0000022A60443790>
+2021-05-29 14:45:09,821|DEBUG|UserActions.py:233|
+2021-05-29 14:45:09,822|DEBUG|UserinfoModel.py:114|continue
+2021-05-29 14:45:09,822|DEBUG|UserinfoModel.py:115|Userinfo:(6,newuser,7c293728f7da06d023a096fae0a44df4,新用户新昵称,15677779999,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:45:09,822|DEBUG|UserinfoModel.py:114|continue
+2021-05-29 14:45:09,822|DEBUG|UserinfoModel.py:115|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:45:15,370|DEBUG|UserActions.py:264|1
+2021-05-29 14:45:15,398|DEBUG|SuperPage.py:32|
+2021-05-29 14:45:15,398|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:45:15,398|DEBUG|SuperPage.py:32|----读者详情----
+2021-05-29 14:45:15,398|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:45:15,398|DEBUG|SuperPage.py:32|编号: {self.reader.userid}
+2021-05-29 14:45:15,398|DEBUG|SuperPage.py:33|['{self.reader.userid}']
+2021-05-29 14:45:15,398|DEBUG|SuperPage.py:32|用户名: {self.reader.username}
+2021-05-29 14:45:15,398|DEBUG|SuperPage.py:33|['{self.reader.username}']
+2021-05-29 14:45:15,398|DEBUG|SuperPage.py:32|手机号: {self.reader.phone}
+2021-05-29 14:45:15,398|DEBUG|SuperPage.py:33|['{self.reader.phone}']
+2021-05-29 14:45:15,398|DEBUG|SuperPage.py:32|
+2021-05-29 14:45:15,398|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:45:15,399|DEBUG|SuperPage.py:58|设为管理员(A),借阅清单(S)
+2021-05-29 14:45:19,557|DEBUG|SuperPage.py:69|用户输入的命令是: s
+2021-05-29 14:45:19,558|DEBUG|SuperPage.py:84|找到指令:
+2021-05-29 14:45:19,558|DEBUG|SuperPage.py:85|BookActions.book_readerborrowlist
+2021-05-29 14:45:19,560|INFO|SuperPage.py:91|>>>action:BookActions.book_readerborrowlist
+2021-05-29 14:45:19,561|INFO|PublicApi.py:50|管理员权限检查：
+2021-05-29 14:45:19,561|INFO|PublicApi.py:51|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:45:19,561|INFO|PublicApi.py:52|<pages.ReaderInfoPage.ReaderInfoPage object at 0x0000022A607941F0>
+2021-05-29 14:45:19,586|DEBUG|SuperPage.py:32|----借阅清单----
+2021-05-29 14:45:19,586|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:45:19,586|DEBUG|SuperPage.py:58|查询(S),归还图书(R)
+2021-05-29 14:45:20,801|DEBUG|SuperPage.py:69|用户输入的命令是: s
+2021-05-29 14:45:20,802|DEBUG|SuperPage.py:84|找到指令:
+2021-05-29 14:45:20,802|DEBUG|SuperPage.py:85|BookActions.do_borrowlist
+2021-05-29 14:45:20,802|INFO|SuperPage.py:91|>>>action:BookActions.do_borrowlist
+2021-05-29 14:45:20,802|INFO|PublicApi.py:68|登陆检查：
+2021-05-29 14:45:20,802|INFO|PublicApi.py:69|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:45:20,802|INFO|PublicApi.py:70|<pages.BorrowListPage.BorrowListPage object at 0x0000022A60794160>
+2021-05-29 14:45:20,802|DEBUG|BorrowregModel.py:87|数据文件: D:\PycharmProjects\SmartBook12\models\Borrowreg.dbx
+2021-05-29 14:45:20,803|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook12\models\Bookinfo.dbx
+2021-05-29 14:45:20,803|INFO|BookinfoModel.py:150|SELECT BY ID:
+2021-05-29 14:45:20,803|INFO|BookinfoModel.py:151|Bookinfo:(10,01,《大话西游》,周星星,0,True,admin)
+2021-05-29 14:45:20,804|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook12\models\Bookinfo.dbx
+2021-05-29 14:45:20,804|INFO|BookinfoModel.py:150|SELECT BY ID:
+2021-05-29 14:45:20,804|INFO|BookinfoModel.py:151|Bookinfo:(11,02,《java编程思想》,王宝强,0,True,admin)
+2021-05-29 14:45:47,130|DEBUG|SuperPage.py:32|----借阅清单----
+2021-05-29 14:45:47,130|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:45:47,130|DEBUG|SuperPage.py:58|查询(S),归还图书(R)
+2021-05-29 14:45:49,531|DEBUG|SuperPage.py:69|用户输入的命令是: s
+2021-05-29 14:45:49,531|DEBUG|SuperPage.py:84|找到指令:
+2021-05-29 14:45:49,531|DEBUG|SuperPage.py:85|BookActions.do_borrowlist
+2021-05-29 14:45:49,531|INFO|SuperPage.py:91|>>>action:BookActions.do_borrowlist
+2021-05-29 14:45:49,531|INFO|PublicApi.py:68|登陆检查：
+2021-05-29 14:45:49,531|INFO|PublicApi.py:69|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:45:49,532|INFO|PublicApi.py:70|<pages.BorrowListPage.BorrowListPage object at 0x0000022A60794160>
+2021-05-29 14:45:49,532|DEBUG|BorrowregModel.py:87|数据文件: D:\PycharmProjects\SmartBook12\models\Borrowreg.dbx
+2021-05-29 14:45:49,533|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook12\models\Bookinfo.dbx
+2021-05-29 14:45:49,533|INFO|BookinfoModel.py:150|SELECT BY ID:
+2021-05-29 14:45:49,533|INFO|BookinfoModel.py:151|Bookinfo:(10,01,《大话西游》,周星星,0,True,admin)
+2021-05-29 14:45:49,534|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook12\models\Bookinfo.dbx
+2021-05-29 14:45:49,534|INFO|BookinfoModel.py:150|SELECT BY ID:
+2021-05-29 14:45:49,534|INFO|BookinfoModel.py:151|Bookinfo:(11,02,《java编程思想》,王宝强,0,True,admin)
+2021-05-29 14:45:55,717|DEBUG|SuperPage.py:32|----借阅清单----
+2021-05-29 14:45:55,717|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:45:55,717|DEBUG|SuperPage.py:58|查询(S),归还图书(R)
+2021-05-29 14:45:57,506|DEBUG|SuperPage.py:69|用户输入的命令是: r
+2021-05-29 14:45:57,506|DEBUG|SuperPage.py:84|找到指令:
+2021-05-29 14:45:57,506|DEBUG|SuperPage.py:85|BookActions.do_return
+2021-05-29 14:45:57,506|INFO|SuperPage.py:91|>>>action:BookActions.do_return
+2021-05-29 14:45:57,507|INFO|PublicApi.py:68|登陆检查：
+2021-05-29 14:45:57,507|INFO|PublicApi.py:69|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:45:57,507|INFO|PublicApi.py:70|<pages.BorrowListPage.BorrowListPage object at 0x0000022A60794160>
+2021-05-29 14:45:58,953|DEBUG|BorrowregModel.py:87|数据文件: D:\PycharmProjects\SmartBook12\models\Borrowreg.dbx
+2021-05-29 14:45:58,954|INFO|BorrowregModel.py:124|SELECT BY ID:
+2021-05-29 14:45:58,954|INFO|BorrowregModel.py:125|Borrowreg:(6,11,1,B,None)
+2021-05-29 14:45:58,954|DEBUG|BorrowregModel.py:87|数据文件: D:\PycharmProjects\SmartBook12\models\Borrowreg.dbx
+2021-05-29 14:45:58,954|DEBUG|BorrowregModel.py:135|Borrowreg:(6,11,1,B,None)
+2021-05-29 14:45:58,954|DEBUG|BorrowregModel.py:136|Borrowreg:(6,11,1,R,7)
+2021-05-29 14:45:58,954|INFO|BorrowregModel.py:141|UPDATE borrow:
+2021-05-29 14:45:58,954|INFO|BorrowregModel.py:142|Borrowreg:(6,11,1,R,7)
+2021-05-29 14:45:58,955|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook12\models\Bookinfo.dbx
+2021-05-29 14:45:58,955|INFO|BookinfoModel.py:150|SELECT BY ID:
+2021-05-29 14:45:58,955|INFO|BookinfoModel.py:151|Bookinfo:(11,02,《java编程思想》,王宝强,0,True,admin)
+2021-05-29 14:45:58,955|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook12\models\Bookinfo.dbx
+2021-05-29 14:45:58,956|DEBUG|BookinfoModel.py:161|Bookinfo:(11,02,《java编程思想》,王宝强,0,True,admin)
+2021-05-29 14:45:58,956|DEBUG|BookinfoModel.py:162|Bookinfo:(11,02,《java编程思想》,王宝强,0,False,admin)
+2021-05-29 14:45:58,956|INFO|BookinfoModel.py:169|UPDATE book:
+2021-05-29 14:45:58,956|INFO|BookinfoModel.py:170|Bookinfo:(11,02,《java编程思想》,王宝强,0,False,admin)
+2021-05-29 14:46:00,044|DEBUG|SuperPage.py:32|----借阅清单----
+2021-05-29 14:46:00,044|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:46:00,044|DEBUG|SuperPage.py:58|查询(S),归还图书(R)
+2021-05-29 14:46:01,047|DEBUG|SuperPage.py:69|用户输入的命令是: s
+2021-05-29 14:46:01,047|DEBUG|SuperPage.py:84|找到指令:
+2021-05-29 14:46:01,047|DEBUG|SuperPage.py:85|BookActions.do_borrowlist
+2021-05-29 14:46:01,047|INFO|SuperPage.py:91|>>>action:BookActions.do_borrowlist
+2021-05-29 14:46:01,047|INFO|PublicApi.py:68|登陆检查：
+2021-05-29 14:46:01,047|INFO|PublicApi.py:69|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:46:01,047|INFO|PublicApi.py:70|<pages.BorrowListPage.BorrowListPage object at 0x0000022A60794160>
+2021-05-29 14:46:01,047|DEBUG|BorrowregModel.py:87|数据文件: D:\PycharmProjects\SmartBook12\models\Borrowreg.dbx
+2021-05-29 14:46:01,048|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook12\models\Bookinfo.dbx
+2021-05-29 14:46:01,048|INFO|BookinfoModel.py:150|SELECT BY ID:
+2021-05-29 14:46:01,048|INFO|BookinfoModel.py:151|Bookinfo:(10,01,《大话西游》,周星星,0,True,admin)
+2021-05-29 14:46:01,049|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook12\models\Bookinfo.dbx
+2021-05-29 14:46:01,049|INFO|BookinfoModel.py:150|SELECT BY ID:
+2021-05-29 14:46:01,049|INFO|BookinfoModel.py:151|Bookinfo:(11,02,《java编程思想》,王宝强,0,False,admin)
+2021-05-29 14:46:09,047|DEBUG|SuperPage.py:32|----借阅清单----
+2021-05-29 14:46:09,047|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:46:09,047|DEBUG|SuperPage.py:58|查询(S),归还图书(R)
+2021-05-29 14:46:10,224|DEBUG|SuperPage.py:69|用户输入的命令是: h
+2021-05-29 14:46:10,256|DEBUG|SuperPage.py:32|
+2021-05-29 14:46:10,256|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:46:10,256|DEBUG|SuperPage.py:32|----读者详情----
+2021-05-29 14:46:10,256|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:46:10,256|DEBUG|SuperPage.py:32|编号: {self.reader.userid}
+2021-05-29 14:46:10,256|DEBUG|SuperPage.py:33|['{self.reader.userid}']
+2021-05-29 14:46:10,257|DEBUG|SuperPage.py:32|用户名: {self.reader.username}
+2021-05-29 14:46:10,257|DEBUG|SuperPage.py:33|['{self.reader.username}']
+2021-05-29 14:46:10,257|DEBUG|SuperPage.py:32|手机号: {self.reader.phone}
+2021-05-29 14:46:10,257|DEBUG|SuperPage.py:33|['{self.reader.phone}']
+2021-05-29 14:46:10,257|DEBUG|SuperPage.py:32|
+2021-05-29 14:46:10,257|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:46:10,257|DEBUG|SuperPage.py:58|设为管理员(A),借阅清单(S)
+2021-05-29 14:46:18,825|DEBUG|SuperPage.py:32|
+2021-05-29 14:46:18,825|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:46:18,825|DEBUG|SuperPage.py:32|您好{self.user.realname},您是第{self.user.userid}个读者
+2021-05-29 14:46:18,825|DEBUG|SuperPage.py:33|['{self.user.realname}', '{self.user.userid}']
+2021-05-29 14:46:18,825|DEBUG|SuperPage.py:32|欢迎来到,图书管理系统(SmartBook)
+2021-05-29 14:46:18,825|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:46:18,825|DEBUG|SuperPage.py:32|在册登记图书(300), 借阅图书(5)
+2021-05-29 14:46:18,825|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:46:18,825|DEBUG|SuperPage.py:32|上次登陆: {self.user.last_date}
+2021-05-29 14:46:18,826|DEBUG|SuperPage.py:33|['{self.user.last_date}']
+2021-05-29 14:46:18,826|DEBUG|SuperPage.py:32|
+2021-05-29 14:46:18,826|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:46:18,826|DEBUG|SuperPage.py:58|个人信息(P),图书浏览(L),读者管理(U),借阅清单(S),注销(E)
+2021-05-29 14:46:24,572|DEBUG|SuperPage.py:69|用户输入的命令是: s
+2021-05-29 14:46:24,572|DEBUG|SuperPage.py:84|找到指令:
+2021-05-29 14:46:24,573|DEBUG|SuperPage.py:85|BookActions.book_borrowlist
+2021-05-29 14:46:24,576|INFO|SuperPage.py:91|>>>action:BookActions.book_borrowlist
+2021-05-29 14:46:24,576|INFO|PublicApi.py:68|登陆检查：
+2021-05-29 14:46:24,576|INFO|PublicApi.py:69|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:46:24,576|INFO|PublicApi.py:70|<pages.HomePage.HomePage object at 0x0000023D9BB51BE0>
+2021-05-29 14:46:24,598|DEBUG|SuperPage.py:32|----借阅清单----
+2021-05-29 14:46:24,598|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:46:24,598|DEBUG|SuperPage.py:58|查询(S),归还图书(R)
+2021-05-29 14:46:25,590|DEBUG|SuperPage.py:69|用户输入的命令是: s
+2021-05-29 14:46:25,591|DEBUG|SuperPage.py:84|找到指令:
+2021-05-29 14:46:25,591|DEBUG|SuperPage.py:85|BookActions.do_borrowlist
+2021-05-29 14:46:25,591|INFO|SuperPage.py:91|>>>action:BookActions.do_borrowlist
+2021-05-29 14:46:25,591|INFO|PublicApi.py:68|登陆检查：
+2021-05-29 14:46:25,591|INFO|PublicApi.py:69|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:46:25,591|INFO|PublicApi.py:70|<pages.BorrowListPage.BorrowListPage object at 0x0000023D9BAB3790>
+2021-05-29 14:46:25,591|DEBUG|BorrowregModel.py:87|数据文件: D:\PycharmProjects\SmartBook12\models\Borrowreg.dbx
+2021-05-29 14:46:25,592|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook12\models\Bookinfo.dbx
+2021-05-29 14:46:25,592|INFO|BookinfoModel.py:150|SELECT BY ID:
+2021-05-29 14:46:25,592|INFO|BookinfoModel.py:151|Bookinfo:(4,01,《哈利波特》,美·哈利,0,False,admin)
+2021-05-29 14:46:25,592|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook12\models\Bookinfo.dbx
+2021-05-29 14:46:25,592|INFO|BookinfoModel.py:150|SELECT BY ID:
+2021-05-29 14:46:25,592|INFO|BookinfoModel.py:151|Bookinfo:(14,01,《afa》,afafa,0,False,admin)
+2021-05-29 14:46:25,593|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook12\models\Bookinfo.dbx
+2021-05-29 14:46:25,593|INFO|BookinfoModel.py:150|SELECT BY ID:
+2021-05-29 14:46:25,593|INFO|BookinfoModel.py:151|Bookinfo:(8,01,《红楼梦》,曹雪芹,0,True,admin)
+2021-05-29 14:46:25,593|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook12\models\Bookinfo.dbx
+2021-05-29 14:46:25,594|INFO|BookinfoModel.py:150|SELECT BY ID:
+2021-05-29 14:46:25,594|INFO|BookinfoModel.py:151|Bookinfo:(6,01,《三国演义》,罗贯中,0,True,admin)
+2021-05-29 14:46:26,906|DEBUG|SuperPage.py:32|----借阅清单----
+2021-05-29 14:46:26,906|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:46:26,906|DEBUG|SuperPage.py:58|查询(S),归还图书(R)
+2021-05-29 14:46:28,662|DEBUG|SuperPage.py:69|用户输入的命令是: h
+2021-05-29 14:46:28,687|DEBUG|SuperPage.py:32|
+2021-05-29 14:46:28,688|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:46:28,688|DEBUG|SuperPage.py:32|您好{self.user.realname},您是第{self.user.userid}个读者
+2021-05-29 14:46:28,688|DEBUG|SuperPage.py:33|['{self.user.realname}', '{self.user.userid}']
+2021-05-29 14:46:28,688|DEBUG|SuperPage.py:32|欢迎来到,图书管理系统(SmartBook)
+2021-05-29 14:46:28,688|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:46:28,688|DEBUG|SuperPage.py:32|在册登记图书(300), 借阅图书(5)
+2021-05-29 14:46:28,688|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:46:28,688|DEBUG|SuperPage.py:32|上次登陆: {self.user.last_date}
+2021-05-29 14:46:28,688|DEBUG|SuperPage.py:33|['{self.user.last_date}']
+2021-05-29 14:46:28,688|DEBUG|SuperPage.py:32|
+2021-05-29 14:46:28,688|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:46:28,689|DEBUG|SuperPage.py:58|个人信息(P),图书浏览(L),读者管理(U),借阅清单(S),注销(E)
+2021-05-29 14:46:30,204|DEBUG|SuperPage.py:69|用户输入的命令是: u
+2021-05-29 14:46:30,204|DEBUG|SuperPage.py:84|找到指令:
+2021-05-29 14:46:30,204|DEBUG|SuperPage.py:85|UserActions.user_readerlist
+2021-05-29 14:46:30,206|INFO|SuperPage.py:91|>>>action:UserActions.user_readerlist
+2021-05-29 14:46:30,206|INFO|PublicApi.py:50|管理员权限检查：
+2021-05-29 14:46:30,206|INFO|PublicApi.py:51|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:46:30,206|INFO|PublicApi.py:52|<pages.HomePage.HomePage object at 0x0000023D9BB51BE0>
+2021-05-29 14:46:30,230|DEBUG|SuperPage.py:32|----读者管理----
+2021-05-29 14:46:30,231|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:46:30,231|DEBUG|SuperPage.py:32|注册读者({len(UserinfoDAO.select(level='reader'))})
+2021-05-29 14:46:30,231|DEBUG|SuperPage.py:33|["{len(UserinfoDAO.select(level='reader'))}"]
+2021-05-29 14:46:30,231|DEBUG|UserinfoModel.py:114|continue
+2021-05-29 14:46:30,231|DEBUG|UserinfoModel.py:115|Userinfo:(6,newuser,7c293728f7da06d023a096fae0a44df4,新用户新昵称,15677779999,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:46:30,231|DEBUG|UserinfoModel.py:114|continue
+2021-05-29 14:46:30,231|DEBUG|UserinfoModel.py:115|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:46:30,231|INFO|SuperPage.py:91|>>>action:UserActions.do_readerlist
+2021-05-29 14:46:30,231|INFO|PublicApi.py:50|管理员权限检查：
+2021-05-29 14:46:30,231|INFO|PublicApi.py:51|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:46:30,231|INFO|PublicApi.py:52|<pages.ReaderListPage.ReaderListPage object at 0x0000023D9BC13700>
+2021-05-29 14:46:33,846|DEBUG|UserActions.py:233|
+2021-05-29 14:46:33,846|DEBUG|UserinfoModel.py:114|continue
+2021-05-29 14:46:33,846|DEBUG|UserinfoModel.py:115|Userinfo:(6,newuser,7c293728f7da06d023a096fae0a44df4,新用户新昵称,15677779999,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:46:33,846|DEBUG|UserinfoModel.py:114|continue
+2021-05-29 14:46:33,846|DEBUG|UserinfoModel.py:115|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:46:35,580|DEBUG|UserActions.py:264|1
+2021-05-29 14:46:35,601|DEBUG|SuperPage.py:32|
+2021-05-29 14:46:35,601|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:46:35,601|DEBUG|SuperPage.py:32|----读者详情----
+2021-05-29 14:46:35,602|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:46:35,602|DEBUG|SuperPage.py:32|编号: {self.reader.userid}
+2021-05-29 14:46:35,602|DEBUG|SuperPage.py:33|['{self.reader.userid}']
+2021-05-29 14:46:35,603|DEBUG|SuperPage.py:32|用户名: {self.reader.username}
+2021-05-29 14:46:35,603|DEBUG|SuperPage.py:33|['{self.reader.username}']
+2021-05-29 14:46:35,603|DEBUG|SuperPage.py:32|手机号: {self.reader.phone}
+2021-05-29 14:46:35,603|DEBUG|SuperPage.py:33|['{self.reader.phone}']
+2021-05-29 14:46:35,603|DEBUG|SuperPage.py:32|
+2021-05-29 14:46:35,603|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:46:35,603|DEBUG|SuperPage.py:58|设为管理员(A),借阅清单(S)
+2021-05-29 14:46:36,592|DEBUG|SuperPage.py:69|用户输入的命令是: s
+2021-05-29 14:46:36,592|DEBUG|SuperPage.py:84|找到指令:
+2021-05-29 14:46:36,592|DEBUG|SuperPage.py:85|BookActions.book_readerborrowlist
+2021-05-29 14:46:36,592|INFO|SuperPage.py:91|>>>action:BookActions.book_readerborrowlist
+2021-05-29 14:46:36,592|INFO|PublicApi.py:50|管理员权限检查：
+2021-05-29 14:46:36,592|INFO|PublicApi.py:51|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:46:36,592|INFO|PublicApi.py:52|<pages.ReaderInfoPage.ReaderInfoPage object at 0x0000023D9BC132B0>
+2021-05-29 14:46:36,612|DEBUG|SuperPage.py:32|----借阅清单----
+2021-05-29 14:46:36,612|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:46:36,613|DEBUG|SuperPage.py:58|查询(S),归还图书(R)
+2021-05-29 14:46:37,585|DEBUG|SuperPage.py:69|用户输入的命令是: s
+2021-05-29 14:46:37,585|DEBUG|SuperPage.py:84|找到指令:
+2021-05-29 14:46:37,585|DEBUG|SuperPage.py:85|BookActions.do_borrowlist
+2021-05-29 14:46:37,585|INFO|SuperPage.py:91|>>>action:BookActions.do_borrowlist
+2021-05-29 14:46:37,585|INFO|PublicApi.py:68|登陆检查：
+2021-05-29 14:46:37,585|INFO|PublicApi.py:69|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:46:37,585|INFO|PublicApi.py:70|<pages.BorrowListPage.BorrowListPage object at 0x0000023D9BE2DC40>
+2021-05-29 14:46:37,585|DEBUG|BorrowregModel.py:87|数据文件: D:\PycharmProjects\SmartBook12\models\Borrowreg.dbx
+2021-05-29 14:46:37,586|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook12\models\Bookinfo.dbx
+2021-05-29 14:46:37,586|INFO|BookinfoModel.py:150|SELECT BY ID:
+2021-05-29 14:46:37,586|INFO|BookinfoModel.py:151|Bookinfo:(10,01,《大话西游》,周星星,0,True,admin)
+2021-05-29 14:46:37,587|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook12\models\Bookinfo.dbx
+2021-05-29 14:46:37,587|INFO|BookinfoModel.py:150|SELECT BY ID:
+2021-05-29 14:46:37,587|INFO|BookinfoModel.py:151|Bookinfo:(11,02,《java编程思想》,王宝强,0,False,admin)
+2021-05-29 14:46:40,073|DEBUG|SuperPage.py:32|----借阅清单----
+2021-05-29 14:46:40,073|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:46:40,073|DEBUG|SuperPage.py:58|查询(S),归还图书(R)
+2021-05-29 14:46:41,434|DEBUG|SuperPage.py:69|用户输入的命令是: h
+2021-05-29 14:46:41,460|DEBUG|SuperPage.py:32|
+2021-05-29 14:46:41,460|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:46:41,460|DEBUG|SuperPage.py:32|----读者详情----
+2021-05-29 14:46:41,460|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:46:41,460|DEBUG|SuperPage.py:32|编号: {self.reader.userid}
+2021-05-29 14:46:41,460|DEBUG|SuperPage.py:33|['{self.reader.userid}']
+2021-05-29 14:46:41,460|DEBUG|SuperPage.py:32|用户名: {self.reader.username}
+2021-05-29 14:46:41,460|DEBUG|SuperPage.py:33|['{self.reader.username}']
+2021-05-29 14:46:41,461|DEBUG|SuperPage.py:32|手机号: {self.reader.phone}
+2021-05-29 14:46:41,461|DEBUG|SuperPage.py:33|['{self.reader.phone}']
+2021-05-29 14:46:41,461|DEBUG|SuperPage.py:32|
+2021-05-29 14:46:41,461|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:46:41,461|DEBUG|SuperPage.py:58|设为管理员(A),借阅清单(S)
+2021-05-29 14:47:12,359|DEBUG|SuperPage.py:32|
+2021-05-29 14:47:12,359|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:47:12,359|DEBUG|SuperPage.py:32|您好{self.user.realname},您是第{self.user.userid}个读者
+2021-05-29 14:47:12,359|DEBUG|SuperPage.py:33|['{self.user.realname}', '{self.user.userid}']
+2021-05-29 14:47:12,360|DEBUG|SuperPage.py:32|欢迎来到,图书管理系统(SmartBook)
+2021-05-29 14:47:12,360|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:47:12,360|DEBUG|SuperPage.py:32|在册登记图书(300), 借阅图书(5)
+2021-05-29 14:47:12,360|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:47:12,360|DEBUG|SuperPage.py:32|上次登陆: {self.user.last_date}
+2021-05-29 14:47:12,360|DEBUG|SuperPage.py:33|['{self.user.last_date}']
+2021-05-29 14:47:12,360|DEBUG|SuperPage.py:32|
+2021-05-29 14:47:12,360|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:47:12,360|DEBUG|SuperPage.py:58|个人信息(P),图书浏览(L),读者管理(U),借阅清单(S),注销(E)
+2021-05-29 14:47:22,021|DEBUG|SuperPage.py:69|用户输入的命令是: u
+2021-05-29 14:47:22,022|DEBUG|SuperPage.py:84|找到指令:
+2021-05-29 14:47:22,022|DEBUG|SuperPage.py:85|UserActions.user_readerlist
+2021-05-29 14:47:22,026|INFO|SuperPage.py:91|>>>action:UserActions.user_readerlist
+2021-05-29 14:47:22,026|INFO|PublicApi.py:50|管理员权限检查：
+2021-05-29 14:47:22,026|INFO|PublicApi.py:51|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:47:22,026|INFO|PublicApi.py:52|<pages.HomePage.HomePage object at 0x000002145B591BE0>
+2021-05-29 14:47:22,051|DEBUG|SuperPage.py:32|----读者管理----
+2021-05-29 14:47:22,051|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:47:22,051|DEBUG|SuperPage.py:32|注册读者({len(UserinfoDAO.select(level='reader'))})
+2021-05-29 14:47:22,051|DEBUG|SuperPage.py:33|["{len(UserinfoDAO.select(level='reader'))}"]
+2021-05-29 14:47:22,051|DEBUG|UserinfoModel.py:114|continue
+2021-05-29 14:47:22,051|DEBUG|UserinfoModel.py:115|Userinfo:(6,newuser,7c293728f7da06d023a096fae0a44df4,新用户新昵称,15677779999,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:47:22,051|DEBUG|UserinfoModel.py:114|continue
+2021-05-29 14:47:22,051|DEBUG|UserinfoModel.py:115|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:47:22,051|INFO|SuperPage.py:91|>>>action:UserActions.do_readerlist
+2021-05-29 14:47:22,051|INFO|PublicApi.py:50|管理员权限检查：
+2021-05-29 14:47:22,051|INFO|PublicApi.py:51|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:47:22,052|INFO|PublicApi.py:52|<pages.ReaderListPage.ReaderListPage object at 0x000002145B4F3790>
+2021-05-29 14:47:26,801|DEBUG|UserActions.py:233|
+2021-05-29 14:47:26,802|DEBUG|UserinfoModel.py:114|continue
+2021-05-29 14:47:26,802|DEBUG|UserinfoModel.py:115|Userinfo:(6,newuser,7c293728f7da06d023a096fae0a44df4,新用户新昵称,15677779999,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:47:26,802|DEBUG|UserinfoModel.py:114|continue
+2021-05-29 14:47:26,802|DEBUG|UserinfoModel.py:115|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:47:33,748|DEBUG|UserActions.py:264|1
+2021-05-29 14:47:33,771|DEBUG|SuperPage.py:32|
+2021-05-29 14:47:33,771|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:47:33,772|DEBUG|SuperPage.py:32|----读者详情----
+2021-05-29 14:47:33,772|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:47:33,772|DEBUG|SuperPage.py:32|编号: {self.reader.userid}
+2021-05-29 14:47:33,772|DEBUG|SuperPage.py:33|['{self.reader.userid}']
+2021-05-29 14:47:33,772|DEBUG|SuperPage.py:32|用户名: {self.reader.username}
+2021-05-29 14:47:33,772|DEBUG|SuperPage.py:33|['{self.reader.username}']
+2021-05-29 14:47:33,772|DEBUG|SuperPage.py:32|手机号: {self.reader.phone}
+2021-05-29 14:47:33,772|DEBUG|SuperPage.py:33|['{self.reader.phone}']
+2021-05-29 14:47:33,772|DEBUG|SuperPage.py:32|
+2021-05-29 14:47:33,772|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:47:33,773|DEBUG|SuperPage.py:58|设为管理员(A),借阅清单(S)
+2021-05-29 14:47:45,439|DEBUG|SuperPage.py:69|用户输入的命令是: s
+2021-05-29 14:47:45,439|DEBUG|SuperPage.py:84|找到指令:
+2021-05-29 14:47:45,440|DEBUG|SuperPage.py:85|BookActions.book_readerborrowlist
+2021-05-29 14:47:45,443|INFO|SuperPage.py:91|>>>action:BookActions.book_readerborrowlist
+2021-05-29 14:47:45,443|INFO|PublicApi.py:50|管理员权限检查：
+2021-05-29 14:47:45,443|INFO|PublicApi.py:51|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:47:45,443|INFO|PublicApi.py:52|<pages.ReaderInfoPage.ReaderInfoPage object at 0x000002145B8441F0>
+2021-05-29 14:47:45,467|DEBUG|SuperPage.py:32|----借阅清单----
+2021-05-29 14:47:45,467|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:47:45,467|DEBUG|SuperPage.py:58|查询(S),归还图书(R)
+2021-05-29 14:49:55,555|DEBUG|SuperPage.py:32|
+2021-05-29 14:49:55,556|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:49:55,556|DEBUG|SuperPage.py:32|您好{self.user.realname},您是第{self.user.userid}个读者
+2021-05-29 14:49:55,556|DEBUG|SuperPage.py:33|['{self.user.realname}', '{self.user.userid}']
+2021-05-29 14:49:55,556|DEBUG|SuperPage.py:32|欢迎来到,图书管理系统(SmartBook)
+2021-05-29 14:49:55,556|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:49:55,556|DEBUG|SuperPage.py:32|在册登记图书(300), 借阅图书(5)
+2021-05-29 14:49:55,556|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:49:55,556|DEBUG|SuperPage.py:32|上次登陆: {self.user.last_date}
+2021-05-29 14:49:55,556|DEBUG|SuperPage.py:33|['{self.user.last_date}']
+2021-05-29 14:49:55,556|DEBUG|SuperPage.py:32|
+2021-05-29 14:49:55,556|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:49:55,557|DEBUG|SuperPage.py:58|个人信息(P),图书浏览(L),读者管理(U),借阅清单(S),注销(E)
+2021-05-29 14:49:57,266|DEBUG|SuperPage.py:69|用户输入的命令是: u
+2021-05-29 14:49:57,267|DEBUG|SuperPage.py:84|找到指令:
+2021-05-29 14:49:57,267|DEBUG|SuperPage.py:85|UserActions.user_readerlist
+2021-05-29 14:49:57,272|INFO|SuperPage.py:91|>>>action:UserActions.user_readerlist
+2021-05-29 14:49:57,272|INFO|PublicApi.py:50|管理员权限检查：
+2021-05-29 14:49:57,272|INFO|PublicApi.py:51|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:49:57,272|INFO|PublicApi.py:52|<pages.HomePage.HomePage object at 0x0000019B62231BE0>
+2021-05-29 14:49:57,292|DEBUG|SuperPage.py:32|----读者管理----
+2021-05-29 14:49:57,292|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:49:57,292|DEBUG|SuperPage.py:32|注册读者({len(UserinfoDAO.select(level='reader'))})
+2021-05-29 14:49:57,292|DEBUG|SuperPage.py:33|["{len(UserinfoDAO.select(level='reader'))}"]
+2021-05-29 14:49:57,293|DEBUG|UserinfoModel.py:114|continue
+2021-05-29 14:49:57,293|DEBUG|UserinfoModel.py:115|Userinfo:(6,newuser,7c293728f7da06d023a096fae0a44df4,新用户新昵称,15677779999,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:49:57,293|DEBUG|UserinfoModel.py:114|continue
+2021-05-29 14:49:57,293|DEBUG|UserinfoModel.py:115|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:49:57,293|INFO|SuperPage.py:91|>>>action:UserActions.do_readerlist
+2021-05-29 14:49:57,293|INFO|PublicApi.py:50|管理员权限检查：
+2021-05-29 14:49:57,293|INFO|PublicApi.py:51|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:49:57,293|INFO|PublicApi.py:52|<pages.ReaderListPage.ReaderListPage object at 0x0000019B62193790>
+2021-05-29 14:49:59,951|DEBUG|UserActions.py:233|i
+2021-05-29 14:50:00,804|DEBUG|UserActions.py:264|1
+2021-05-29 14:50:00,831|DEBUG|SuperPage.py:32|
+2021-05-29 14:50:00,831|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:50:00,831|DEBUG|SuperPage.py:32|----读者详情----
+2021-05-29 14:50:00,831|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:50:00,831|DEBUG|SuperPage.py:32|编号: {self.reader.userid}
+2021-05-29 14:50:00,831|DEBUG|SuperPage.py:33|['{self.reader.userid}']
+2021-05-29 14:50:00,832|DEBUG|SuperPage.py:32|用户名: {self.reader.username}
+2021-05-29 14:50:00,832|DEBUG|SuperPage.py:33|['{self.reader.username}']
+2021-05-29 14:50:00,832|DEBUG|SuperPage.py:32|手机号: {self.reader.phone}
+2021-05-29 14:50:00,832|DEBUG|SuperPage.py:33|['{self.reader.phone}']
+2021-05-29 14:50:00,832|DEBUG|SuperPage.py:32|
+2021-05-29 14:50:00,832|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:50:00,832|DEBUG|SuperPage.py:58|设为管理员(A),借阅清单(S)
+2021-05-29 14:50:11,492|DEBUG|SuperPage.py:69|用户输入的命令是: h
+2021-05-29 14:50:11,516|DEBUG|SuperPage.py:32|
+2021-05-29 14:50:11,516|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:50:11,516|DEBUG|SuperPage.py:32|您好{self.user.realname},您是第{self.user.userid}个读者
+2021-05-29 14:50:11,516|DEBUG|SuperPage.py:33|['{self.user.realname}', '{self.user.userid}']
+2021-05-29 14:50:11,516|DEBUG|SuperPage.py:32|欢迎来到,图书管理系统(SmartBook)
+2021-05-29 14:50:11,516|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:50:11,516|DEBUG|SuperPage.py:32|在册登记图书(300), 借阅图书(5)
+2021-05-29 14:50:11,516|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:50:11,517|DEBUG|SuperPage.py:32|上次登陆: {self.user.last_date}
+2021-05-29 14:50:11,517|DEBUG|SuperPage.py:33|['{self.user.last_date}']
+2021-05-29 14:50:11,517|DEBUG|SuperPage.py:32|
+2021-05-29 14:50:11,517|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:50:11,517|DEBUG|SuperPage.py:58|个人信息(P),图书浏览(L),读者管理(U),借阅清单(S),注销(E)
+2021-05-29 14:50:13,989|DEBUG|SuperPage.py:69|用户输入的命令是: u
+2021-05-29 14:50:13,989|DEBUG|SuperPage.py:84|找到指令:
+2021-05-29 14:50:13,989|DEBUG|SuperPage.py:85|UserActions.user_readerlist
+2021-05-29 14:50:13,989|INFO|SuperPage.py:91|>>>action:UserActions.user_readerlist
+2021-05-29 14:50:13,989|INFO|PublicApi.py:50|管理员权限检查：
+2021-05-29 14:50:13,989|INFO|PublicApi.py:51|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:50:13,989|INFO|PublicApi.py:52|<pages.HomePage.HomePage object at 0x0000019B62231BE0>
+2021-05-29 14:50:14,016|DEBUG|SuperPage.py:32|----读者管理----
+2021-05-29 14:50:14,016|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:50:14,016|DEBUG|SuperPage.py:32|注册读者({len(UserinfoDAO.select(level='reader'))})
+2021-05-29 14:50:14,016|DEBUG|SuperPage.py:33|["{len(UserinfoDAO.select(level='reader'))}"]
+2021-05-29 14:50:14,017|DEBUG|UserinfoModel.py:114|continue
+2021-05-29 14:50:14,017|DEBUG|UserinfoModel.py:115|Userinfo:(6,newuser,7c293728f7da06d023a096fae0a44df4,新用户新昵称,15677779999,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:50:14,017|DEBUG|UserinfoModel.py:114|continue
+2021-05-29 14:50:14,017|DEBUG|UserinfoModel.py:115|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:50:14,017|INFO|SuperPage.py:91|>>>action:UserActions.do_readerlist
+2021-05-29 14:50:14,017|INFO|PublicApi.py:50|管理员权限检查：
+2021-05-29 14:50:14,017|INFO|PublicApi.py:51|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:50:14,017|INFO|PublicApi.py:52|<pages.ReaderListPage.ReaderListPage object at 0x0000019B6251EE80>
+2021-05-29 14:50:15,731|DEBUG|UserActions.py:233|
+2021-05-29 14:50:15,731|DEBUG|UserinfoModel.py:114|continue
+2021-05-29 14:50:15,731|DEBUG|UserinfoModel.py:115|Userinfo:(6,newuser,7c293728f7da06d023a096fae0a44df4,新用户新昵称,15677779999,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:50:15,731|DEBUG|UserinfoModel.py:114|continue
+2021-05-29 14:50:15,731|DEBUG|UserinfoModel.py:115|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:50:17,601|DEBUG|UserActions.py:264|1
+2021-05-29 14:50:17,628|DEBUG|SuperPage.py:32|
+2021-05-29 14:50:17,628|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:50:17,628|DEBUG|SuperPage.py:32|----读者详情----
+2021-05-29 14:50:17,628|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:50:17,628|DEBUG|SuperPage.py:32|编号: {self.reader.userid}
+2021-05-29 14:50:17,628|DEBUG|SuperPage.py:33|['{self.reader.userid}']
+2021-05-29 14:50:17,628|DEBUG|SuperPage.py:32|用户名: {self.reader.username}
+2021-05-29 14:50:17,628|DEBUG|SuperPage.py:33|['{self.reader.username}']
+2021-05-29 14:50:17,628|DEBUG|SuperPage.py:32|手机号: {self.reader.phone}
+2021-05-29 14:50:17,628|DEBUG|SuperPage.py:33|['{self.reader.phone}']
+2021-05-29 14:50:17,628|DEBUG|SuperPage.py:32|
+2021-05-29 14:50:17,629|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:50:17,629|DEBUG|SuperPage.py:58|设为管理员(A),借阅清单(S)
+2021-05-29 14:50:22,016|DEBUG|SuperPage.py:69|用户输入的命令是: s
+2021-05-29 14:50:22,016|DEBUG|SuperPage.py:84|找到指令:
+2021-05-29 14:50:22,016|DEBUG|SuperPage.py:85|BookActions.book_readerborrowlist
+2021-05-29 14:50:22,022|INFO|SuperPage.py:91|>>>action:BookActions.book_readerborrowlist
+2021-05-29 14:50:22,023|INFO|PublicApi.py:50|管理员权限检查：
+2021-05-29 14:50:22,023|INFO|PublicApi.py:51|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:50:22,023|INFO|PublicApi.py:52|<pages.ReaderInfoPage.ReaderInfoPage object at 0x0000019B622F32B0>
+2021-05-29 14:50:22,047|DEBUG|SuperPage.py:32|----借阅清单----
+2021-05-29 14:50:22,047|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:50:22,047|DEBUG|SuperPage.py:58|查询(S),归还图书(R)
+2021-05-29 14:50:26,261|DEBUG|SuperPage.py:69|用户输入的命令是: h
+2021-05-29 14:50:26,285|DEBUG|SuperPage.py:32|
+2021-05-29 14:50:26,285|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:50:26,285|DEBUG|SuperPage.py:32|您好{self.user.realname},您是第{self.user.userid}个读者
+2021-05-29 14:50:26,285|DEBUG|SuperPage.py:33|['{self.user.realname}', '{self.user.userid}']
+2021-05-29 14:50:26,285|DEBUG|SuperPage.py:32|欢迎来到,图书管理系统(SmartBook)
+2021-05-29 14:50:26,285|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:50:26,286|DEBUG|SuperPage.py:32|在册登记图书(300), 借阅图书(5)
+2021-05-29 14:50:26,286|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:50:26,286|DEBUG|SuperPage.py:32|上次登陆: {self.user.last_date}
+2021-05-29 14:50:26,286|DEBUG|SuperPage.py:33|['{self.user.last_date}']
+2021-05-29 14:50:26,286|DEBUG|SuperPage.py:32|
+2021-05-29 14:50:26,286|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:50:26,286|DEBUG|SuperPage.py:58|个人信息(P),图书浏览(L),读者管理(U),借阅清单(S),注销(E)
+2021-05-29 14:53:13,671|DEBUG|SuperPage.py:69|用户输入的命令是: e
+2021-05-29 14:53:13,671|DEBUG|SuperPage.py:84|找到指令:
+2021-05-29 14:53:13,671|DEBUG|SuperPage.py:85|UserActions.user_logout
+2021-05-29 14:53:13,671|INFO|SuperPage.py:91|>>>action:UserActions.user_logout
+2021-05-29 14:53:13,671|INFO|PublicApi.py:68|登陆检查：
+2021-05-29 14:53:13,671|INFO|PublicApi.py:69|Userinfo:(7,admin,d138768d3b5eca407f0dd579c5ca3767,系统管理员,13455552222,True,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-05-29 14:53:13,671|INFO|PublicApi.py:70|<pages.HomePage.HomePage object at 0x0000019B62231BE0>
+2021-05-29 14:53:13,700|DEBUG|SuperPage.py:32|
+2021-05-29 14:53:13,700|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:53:13,700|DEBUG|SuperPage.py:32|欢迎来到,
+2021-05-29 14:53:13,700|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:53:13,700|DEBUG|SuperPage.py:32|图书管理系统(SmartBook)
+2021-05-29 14:53:13,701|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:53:13,701|DEBUG|SuperPage.py:32|版本号: v0.1
+2021-05-29 14:53:13,701|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:53:13,701|DEBUG|SuperPage.py:32|开发者: Sniper
+2021-05-29 14:53:13,701|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:53:13,701|DEBUG|SuperPage.py:32|系统日期: yyyy年mm月dd日
+2021-05-29 14:53:13,701|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:53:13,701|DEBUG|SuperPage.py:32|
+2021-05-29 14:53:13,701|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:53:13,701|DEBUG|SuperPage.py:58|登陆(L),注册(R),找回密码(F),退出(Q)
+2021-05-29 14:53:14,942|DEBUG|SuperPage.py:69|用户输入的命令是: q
+2021-05-29 14:53:14,942|DEBUG|SuperPage.py:84|找到指令:
+2021-05-29 14:53:14,942|DEBUG|SuperPage.py:85|PublicActions.sys_exit
+2021-05-29 14:53:14,943|INFO|SuperPage.py:91|>>>action:PublicActions.sys_exit
+2021-05-29 14:53:14,943|INFO|PublicActions.py:13|用户退出系统
+2021-05-29 14:53:16,491|DEBUG|SuperPage.py:32|
+2021-05-29 14:53:16,492|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:53:16,492|DEBUG|SuperPage.py:32|您好{self.user.realname},您是第{self.user.userid}个读者
+2021-05-29 14:53:16,492|DEBUG|SuperPage.py:33|['{self.user.realname}', '{self.user.userid}']
+2021-05-29 14:53:16,492|DEBUG|SuperPage.py:32|欢迎来到,图书管理系统(SmartBook)
+2021-05-29 14:53:16,492|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:53:16,492|DEBUG|SuperPage.py:32|在册登记图书({len(BookinfoDAO.select(p_state='normal'))}), 借阅图书({len(BookinfoDAO.select(p_is_borrow=True))})
+2021-05-29 14:53:16,492|DEBUG|SuperPage.py:33|["{len(BookinfoDAO.select(p_state='normal'))}", '{len(BookinfoDAO.select(p_is_borrow=True))}']
+2021-05-29 14:53:16,492|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook12\models\Bookinfo.dbx
+2021-05-29 14:53:16,493|DEBUG|BookinfoModel.py:110|数据文件: D:\PycharmProjects\SmartBook12\models\Bookinfo.dbx
+2021-05-29 14:53:16,493|DEBUG|SuperPage.py:32|上次登陆: {self.user.last_date}
+2021-05-29 14:53:16,493|DEBUG|SuperPage.py:33|['{self.user.last_date}']
+2021-05-29 14:53:16,493|DEBUG|SuperPage.py:32|
+2021-05-29 14:53:16,493|DEBUG|SuperPage.py:33|[]
+2021-05-29 14:53:16,493|DEBUG|SuperPage.py:58|个人信息(P),图书浏览(L),读者管理(U),借阅清单(S),注销(E)
+2021-10-17 21:24:02,347|DEBUG|SuperPage.py:32|
+2021-10-17 21:24:02,348|DEBUG|SuperPage.py:33|[]
+2021-10-17 21:24:02,348|DEBUG|SuperPage.py:32|欢迎来到,
+2021-10-17 21:24:02,348|DEBUG|SuperPage.py:33|[]
+2021-10-17 21:24:02,349|DEBUG|SuperPage.py:32|图书管理系统(SmartBook)
+2021-10-17 21:24:02,349|DEBUG|SuperPage.py:33|[]
+2021-10-17 21:24:02,349|DEBUG|SuperPage.py:32|版本号: v0.1
+2021-10-17 21:24:02,349|DEBUG|SuperPage.py:33|[]
+2021-10-17 21:24:02,349|DEBUG|SuperPage.py:32|开发者: Sniper
+2021-10-17 21:24:02,349|DEBUG|SuperPage.py:33|[]
+2021-10-17 21:24:02,349|DEBUG|SuperPage.py:32|系统日期: yyyy年mm月dd日
+2021-10-17 21:24:02,350|DEBUG|SuperPage.py:33|[]
+2021-10-17 21:24:02,350|DEBUG|SuperPage.py:32|
+2021-10-17 21:24:02,350|DEBUG|SuperPage.py:33|[]
+2021-10-17 21:24:02,350|DEBUG|SuperPage.py:58|登陆(L),注册(R),找回密码(F),退出(Q)
+2021-10-17 21:24:06,706|DEBUG|SuperPage.py:69|用户输入的命令是: l
+2021-10-17 21:24:06,706|DEBUG|SuperPage.py:84|找到指令:
+2021-10-17 21:24:06,706|DEBUG|SuperPage.py:85|UserActions.user_login
+2021-10-17 21:24:06,725|INFO|SuperPage.py:91|>>>action:UserActions.user_login
+2021-10-17 21:24:06,758|DEBUG|SuperPage.py:32|用户登陆
+2021-10-17 21:24:06,758|DEBUG|SuperPage.py:33|[]
+2021-10-17 21:24:06,758|DEBUG|SuperPage.py:32|----请输入用户名和密码----
+2021-10-17 21:24:06,758|DEBUG|SuperPage.py:33|[]
+2021-10-17 21:24:06,758|INFO|SuperPage.py:91|>>>action:UserActions.do_login
+2021-10-17 21:24:06,759|INFO|UserActions.py:100|用户登陆检查
+2021-10-17 21:24:10,708|DEBUG|UserActions.py:102|用户名: user
+2021-10-17 21:24:12,211|INFO|UserActions.py:109|当前用户，None
+2021-10-17 21:24:12,211|ERROR|UserActions.py:113|user
+2021-10-17 21:24:12,212|ERROR|UserActions.py:114|123123
+2021-10-17 21:24:12,212|ERROR|UserActions.py:123|'NoneType' object has no attribute 'password'
+Traceback (most recent call last):
+  File "C:\Users\86180\Desktop\乱七八糟\SmartBook12\actions\UserActions.py", line 115, in do_login
+    logger.error(user.password)
+AttributeError: 'NoneType' object has no attribute 'password'
+2021-10-17 21:24:26,983|DEBUG|SuperPage.py:32|用户登陆
+2021-10-17 21:24:26,983|DEBUG|SuperPage.py:33|[]
+2021-10-17 21:24:26,983|DEBUG|SuperPage.py:32|----请输入用户名和密码----
+2021-10-17 21:24:26,983|DEBUG|SuperPage.py:33|[]
+2021-10-17 21:24:26,983|INFO|SuperPage.py:91|>>>action:UserActions.do_login
+2021-10-17 21:24:26,984|INFO|UserActions.py:100|用户登陆检查
+2021-10-17 21:24:34,481|DEBUG|UserActions.py:102|用户名: sniper
+2021-10-17 21:24:36,104|INFO|UserActions.py:109|当前用户，Userinfo:(1,sniper,b5f23a1b03f81c39c5b366093d840284,图书管理员,15622221111,False,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-10-17 21:24:36,913|DEBUG|SuperPage.py:32|
+2021-10-17 21:24:36,913|DEBUG|SuperPage.py:33|[]
+2021-10-17 21:24:36,913|DEBUG|SuperPage.py:32|您好{self.user.realname},您是第{self.user.userid}个读者
+2021-10-17 21:24:36,914|DEBUG|SuperPage.py:33|['{self.user.realname}', '{self.user.userid}']
+2021-10-17 21:24:36,914|DEBUG|SuperPage.py:32|欢迎来到,图书管理系统(SmartBook)
+2021-10-17 21:24:36,914|DEBUG|SuperPage.py:33|[]
+2021-10-17 21:24:36,914|DEBUG|SuperPage.py:32|在册登记图书({len(BookinfoDAO.select(p_state='normal'))}), 借阅图书({len(BookinfoDAO.select(p_is_borrow=True))})
+2021-10-17 21:24:36,914|DEBUG|SuperPage.py:33|["{len(BookinfoDAO.select(p_state='normal'))}", '{len(BookinfoDAO.select(p_is_borrow=True))}']
+2021-10-17 21:24:36,914|DEBUG|BookinfoModel.py:110|数据文件: C:\Users\86180\Desktop\乱七八糟\SmartBook12\models\Bookinfo.dbx
+2021-10-17 21:24:36,923|DEBUG|BookinfoModel.py:110|数据文件: C:\Users\86180\Desktop\乱七八糟\SmartBook12\models\Bookinfo.dbx
+2021-10-17 21:24:36,924|DEBUG|SuperPage.py:32|上次登陆: {self.user.last_date}
+2021-10-17 21:24:36,924|DEBUG|SuperPage.py:33|['{self.user.last_date}']
+2021-10-17 21:24:36,924|DEBUG|SuperPage.py:32|
+2021-10-17 21:24:36,924|DEBUG|SuperPage.py:33|[]
+2021-10-17 21:24:36,925|DEBUG|SuperPage.py:58|个人信息(P),图书浏览(L),借阅清单(S),注销(E)
+2021-10-17 21:24:39,301|DEBUG|SuperPage.py:69|用户输入的命令是: s
+2021-10-17 21:24:39,301|DEBUG|SuperPage.py:84|找到指令:
+2021-10-17 21:24:39,301|DEBUG|SuperPage.py:85|BookActions.book_borrowlist
+2021-10-17 21:24:39,333|INFO|SuperPage.py:91|>>>action:BookActions.book_borrowlist
+2021-10-17 21:24:39,333|INFO|PublicApi.py:68|登陆检查：
+2021-10-17 21:24:39,333|INFO|PublicApi.py:69|Userinfo:(1,sniper,b5f23a1b03f81c39c5b366093d840284,图书管理员,15622221111,False,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-10-17 21:24:39,333|INFO|PublicApi.py:70|<pages.HomePage.HomePage object at 0x000001A1C9803F10>
+2021-10-17 21:24:39,373|DEBUG|SuperPage.py:32|----借阅清单----
+2021-10-17 21:24:39,374|DEBUG|SuperPage.py:33|[]
+2021-10-17 21:24:39,374|DEBUG|SuperPage.py:58|查询(S),归还图书(R)
+2021-10-17 21:24:41,870|DEBUG|SuperPage.py:69|用户输入的命令是: h
+2021-10-17 21:24:41,920|DEBUG|SuperPage.py:32|
+2021-10-17 21:24:41,920|DEBUG|SuperPage.py:33|[]
+2021-10-17 21:24:41,920|DEBUG|SuperPage.py:32|您好{self.user.realname},您是第{self.user.userid}个读者
+2021-10-17 21:24:41,920|DEBUG|SuperPage.py:33|['{self.user.realname}', '{self.user.userid}']
+2021-10-17 21:24:41,921|DEBUG|SuperPage.py:32|欢迎来到,图书管理系统(SmartBook)
+2021-10-17 21:24:41,921|DEBUG|SuperPage.py:33|[]
+2021-10-17 21:24:41,921|DEBUG|SuperPage.py:32|在册登记图书({len(BookinfoDAO.select(p_state='normal'))}), 借阅图书({len(BookinfoDAO.select(p_is_borrow=True))})
+2021-10-17 21:24:41,921|DEBUG|SuperPage.py:33|["{len(BookinfoDAO.select(p_state='normal'))}", '{len(BookinfoDAO.select(p_is_borrow=True))}']
+2021-10-17 21:24:41,921|DEBUG|BookinfoModel.py:110|数据文件: C:\Users\86180\Desktop\乱七八糟\SmartBook12\models\Bookinfo.dbx
+2021-10-17 21:24:41,921|DEBUG|BookinfoModel.py:110|数据文件: C:\Users\86180\Desktop\乱七八糟\SmartBook12\models\Bookinfo.dbx
+2021-10-17 21:24:41,922|DEBUG|SuperPage.py:32|上次登陆: {self.user.last_date}
+2021-10-17 21:24:41,922|DEBUG|SuperPage.py:33|['{self.user.last_date}']
+2021-10-17 21:24:41,922|DEBUG|SuperPage.py:32|
+2021-10-17 21:24:41,922|DEBUG|SuperPage.py:33|[]
+2021-10-17 21:24:41,922|DEBUG|SuperPage.py:58|个人信息(P),图书浏览(L),借阅清单(S),注销(E)
+2021-10-17 21:24:44,832|DEBUG|SuperPage.py:69|用户输入的命令是: s
+2021-10-17 21:24:44,833|DEBUG|SuperPage.py:84|找到指令:
+2021-10-17 21:24:44,833|DEBUG|SuperPage.py:85|BookActions.book_borrowlist
+2021-10-17 21:24:44,833|INFO|SuperPage.py:91|>>>action:BookActions.book_borrowlist
+2021-10-17 21:24:44,833|INFO|PublicApi.py:68|登陆检查：
+2021-10-17 21:24:44,833|INFO|PublicApi.py:69|Userinfo:(1,sniper,b5f23a1b03f81c39c5b366093d840284,图书管理员,15622221111,False,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-10-17 21:24:44,833|INFO|PublicApi.py:70|<pages.HomePage.HomePage object at 0x000001A1C9803F10>
+2021-10-17 21:24:44,885|DEBUG|SuperPage.py:32|----借阅清单----
+2021-10-17 21:24:44,885|DEBUG|SuperPage.py:33|[]
+2021-10-17 21:24:44,886|DEBUG|SuperPage.py:58|查询(S),归还图书(R)
+2021-10-17 21:24:47,105|DEBUG|SuperPage.py:69|用户输入的命令是: s
+2021-10-17 21:24:47,105|DEBUG|SuperPage.py:84|找到指令:
+2021-10-17 21:24:47,105|DEBUG|SuperPage.py:85|BookActions.do_borrowlist
+2021-10-17 21:24:47,105|INFO|SuperPage.py:91|>>>action:BookActions.do_borrowlist
+2021-10-17 21:24:47,105|INFO|PublicApi.py:68|登陆检查：
+2021-10-17 21:24:47,105|INFO|PublicApi.py:69|Userinfo:(1,sniper,b5f23a1b03f81c39c5b366093d840284,图书管理员,15622221111,False,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-10-17 21:24:47,105|INFO|PublicApi.py:70|<pages.BorrowListPage.BorrowListPage object at 0x000001A1C9834AF0>
+2021-10-17 21:24:47,106|DEBUG|BorrowregModel.py:87|数据文件: C:\Users\86180\Desktop\乱七八糟\SmartBook12\models\Borrowreg.dbx
+2021-10-17 21:24:47,108|DEBUG|BookinfoModel.py:110|数据文件: C:\Users\86180\Desktop\乱七八糟\SmartBook12\models\Bookinfo.dbx
+2021-10-17 21:24:47,108|INFO|BookinfoModel.py:150|SELECT BY ID:
+2021-10-17 21:24:47,108|INFO|BookinfoModel.py:151|Bookinfo:(10,01,《大话西游》,周星星,0,True,admin)
+2021-10-17 21:24:47,109|DEBUG|BookinfoModel.py:110|数据文件: C:\Users\86180\Desktop\乱七八糟\SmartBook12\models\Bookinfo.dbx
+2021-10-17 21:24:47,109|INFO|BookinfoModel.py:150|SELECT BY ID:
+2021-10-17 21:24:47,110|INFO|BookinfoModel.py:151|Bookinfo:(11,02,《java编程思想》,王宝强,0,False,admin)
+2021-10-17 21:24:55,104|DEBUG|SuperPage.py:32|----借阅清单----
+2021-10-17 21:24:55,104|DEBUG|SuperPage.py:33|[]
+2021-10-17 21:24:55,104|DEBUG|SuperPage.py:58|查询(S),归还图书(R)
+2021-10-17 21:24:57,421|DEBUG|SuperPage.py:69|用户输入的命令是: r
+2021-10-17 21:24:57,421|DEBUG|SuperPage.py:84|找到指令:
+2021-10-17 21:24:57,421|DEBUG|SuperPage.py:85|BookActions.do_return
+2021-10-17 21:24:57,421|INFO|SuperPage.py:91|>>>action:BookActions.do_return
+2021-10-17 21:24:57,422|INFO|PublicApi.py:68|登陆检查：
+2021-10-17 21:24:57,422|INFO|PublicApi.py:69|Userinfo:(1,sniper,b5f23a1b03f81c39c5b366093d840284,图书管理员,15622221111,False,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-10-17 21:24:57,422|INFO|PublicApi.py:70|<pages.BorrowListPage.BorrowListPage object at 0x000001A1C9834AF0>
+2021-10-17 21:25:00,796|DEBUG|BorrowregModel.py:87|数据文件: C:\Users\86180\Desktop\乱七八糟\SmartBook12\models\Borrowreg.dbx
+2021-10-17 21:25:00,797|INFO|BorrowregModel.py:124|SELECT BY ID:
+2021-10-17 21:25:00,797|INFO|BorrowregModel.py:125|Borrowreg:(1,4,7,R,7)
+2021-10-17 21:25:00,797|DEBUG|BorrowregModel.py:87|数据文件: C:\Users\86180\Desktop\乱七八糟\SmartBook12\models\Borrowreg.dbx
+2021-10-17 21:25:00,797|DEBUG|BorrowregModel.py:135|Borrowreg:(1,4,7,R,7)
+2021-10-17 21:25:00,797|DEBUG|BorrowregModel.py:136|Borrowreg:(1,4,7,R,1)
+2021-10-17 21:25:00,797|INFO|BorrowregModel.py:141|UPDATE borrow:
+2021-10-17 21:25:00,797|INFO|BorrowregModel.py:142|Borrowreg:(1,4,7,R,1)
+2021-10-17 21:25:00,798|DEBUG|BookinfoModel.py:110|数据文件: C:\Users\86180\Desktop\乱七八糟\SmartBook12\models\Bookinfo.dbx
+2021-10-17 21:25:00,798|INFO|BookinfoModel.py:150|SELECT BY ID:
+2021-10-17 21:25:00,798|INFO|BookinfoModel.py:151|Bookinfo:(4,01,《哈利波特》,美·哈利,0,False,admin)
+2021-10-17 21:25:00,798|DEBUG|BookinfoModel.py:110|数据文件: C:\Users\86180\Desktop\乱七八糟\SmartBook12\models\Bookinfo.dbx
+2021-10-17 21:25:00,799|DEBUG|BookinfoModel.py:161|Bookinfo:(4,01,《哈利波特》,美·哈利,0,False,admin)
+2021-10-17 21:25:00,799|DEBUG|BookinfoModel.py:162|Bookinfo:(4,01,《哈利波特》,美·哈利,0,False,admin)
+2021-10-17 21:25:00,799|INFO|BookinfoModel.py:169|UPDATE book:
+2021-10-17 21:25:00,799|INFO|BookinfoModel.py:170|Bookinfo:(4,01,《哈利波特》,美·哈利,0,False,admin)
+2021-10-17 21:25:02,144|DEBUG|SuperPage.py:32|----借阅清单----
+2021-10-17 21:25:02,144|DEBUG|SuperPage.py:33|[]
+2021-10-17 21:25:02,144|DEBUG|SuperPage.py:58|查询(S),归还图书(R)
+2021-10-17 21:25:04,121|DEBUG|SuperPage.py:69|用户输入的命令是: s
+2021-10-17 21:25:04,122|DEBUG|SuperPage.py:84|找到指令:
+2021-10-17 21:25:04,122|DEBUG|SuperPage.py:85|BookActions.do_borrowlist
+2021-10-17 21:25:04,122|INFO|SuperPage.py:91|>>>action:BookActions.do_borrowlist
+2021-10-17 21:25:04,122|INFO|PublicApi.py:68|登陆检查：
+2021-10-17 21:25:04,122|INFO|PublicApi.py:69|Userinfo:(1,sniper,b5f23a1b03f81c39c5b366093d840284,图书管理员,15622221111,False,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-10-17 21:25:04,122|INFO|PublicApi.py:70|<pages.BorrowListPage.BorrowListPage object at 0x000001A1C9834AF0>
+2021-10-17 21:25:04,122|DEBUG|BorrowregModel.py:87|数据文件: C:\Users\86180\Desktop\乱七八糟\SmartBook12\models\Borrowreg.dbx
+2021-10-17 21:25:04,132|DEBUG|BookinfoModel.py:110|数据文件: C:\Users\86180\Desktop\乱七八糟\SmartBook12\models\Bookinfo.dbx
+2021-10-17 21:25:04,133|INFO|BookinfoModel.py:150|SELECT BY ID:
+2021-10-17 21:25:04,134|INFO|BookinfoModel.py:151|Bookinfo:(10,01,《大话西游》,周星星,0,True,admin)
+2021-10-17 21:25:04,134|DEBUG|BookinfoModel.py:110|数据文件: C:\Users\86180\Desktop\乱七八糟\SmartBook12\models\Bookinfo.dbx
+2021-10-17 21:25:04,135|INFO|BookinfoModel.py:150|SELECT BY ID:
+2021-10-17 21:25:04,135|INFO|BookinfoModel.py:151|Bookinfo:(11,02,《java编程思想》,王宝强,0,False,admin)
+2021-10-17 21:25:13,511|DEBUG|SuperPage.py:32|----借阅清单----
+2021-10-17 21:25:13,511|DEBUG|SuperPage.py:33|[]
+2021-10-17 21:25:13,511|DEBUG|SuperPage.py:58|查询(S),归还图书(R)
+2021-10-17 21:25:17,401|DEBUG|SuperPage.py:69|用户输入的命令是: s
+2021-10-17 21:25:17,401|DEBUG|SuperPage.py:84|找到指令:
+2021-10-17 21:25:17,401|DEBUG|SuperPage.py:85|BookActions.do_borrowlist
+2021-10-17 21:25:17,401|INFO|SuperPage.py:91|>>>action:BookActions.do_borrowlist
+2021-10-17 21:25:17,401|INFO|PublicApi.py:68|登陆检查：
+2021-10-17 21:25:17,401|INFO|PublicApi.py:69|Userinfo:(1,sniper,b5f23a1b03f81c39c5b366093d840284,图书管理员,15622221111,False,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-10-17 21:25:17,401|INFO|PublicApi.py:70|<pages.BorrowListPage.BorrowListPage object at 0x000001A1C9834AF0>
+2021-10-17 21:25:17,402|DEBUG|BorrowregModel.py:87|数据文件: C:\Users\86180\Desktop\乱七八糟\SmartBook12\models\Borrowreg.dbx
+2021-10-17 21:25:17,403|DEBUG|BookinfoModel.py:110|数据文件: C:\Users\86180\Desktop\乱七八糟\SmartBook12\models\Bookinfo.dbx
+2021-10-17 21:25:17,404|INFO|BookinfoModel.py:150|SELECT BY ID:
+2021-10-17 21:25:17,404|INFO|BookinfoModel.py:151|Bookinfo:(10,01,《大话西游》,周星星,0,True,admin)
+2021-10-17 21:25:17,405|DEBUG|BookinfoModel.py:110|数据文件: C:\Users\86180\Desktop\乱七八糟\SmartBook12\models\Bookinfo.dbx
+2021-10-17 21:25:17,405|INFO|BookinfoModel.py:150|SELECT BY ID:
+2021-10-17 21:25:17,406|INFO|BookinfoModel.py:151|Bookinfo:(11,02,《java编程思想》,王宝强,0,False,admin)
+2021-10-17 21:25:18,728|DEBUG|SuperPage.py:32|----借阅清单----
+2021-10-17 21:25:18,729|DEBUG|SuperPage.py:33|[]
+2021-10-17 21:25:18,729|DEBUG|SuperPage.py:58|查询(S),归还图书(R)
+2021-10-17 21:25:21,289|DEBUG|SuperPage.py:69|用户输入的命令是: s
+2021-10-17 21:25:21,289|DEBUG|SuperPage.py:84|找到指令:
+2021-10-17 21:25:21,289|DEBUG|SuperPage.py:85|BookActions.do_borrowlist
+2021-10-17 21:25:21,289|INFO|SuperPage.py:91|>>>action:BookActions.do_borrowlist
+2021-10-17 21:25:21,289|INFO|PublicApi.py:68|登陆检查：
+2021-10-17 21:25:21,290|INFO|PublicApi.py:69|Userinfo:(1,sniper,b5f23a1b03f81c39c5b366093d840284,图书管理员,15622221111,False,0,yyyy-mm-dd,yyyy-mm-dd)
+2021-10-17 21:25:21,290|INFO|PublicApi.py:70|<pages.BorrowListPage.BorrowListPage object at 0x000001A1C9834AF0>
+2021-10-17 21:25:21,290|DEBUG|BorrowregModel.py:87|数据文件: C:\Users\86180\Desktop\乱七八糟\SmartBook12\models\Borrowreg.dbx
+2021-10-17 21:25:21,291|DEBUG|BookinfoModel.py:110|数据文件: C:\Users\86180\Desktop\乱七八糟\SmartBook12\models\Bookinfo.dbx
+2021-10-17 21:25:21,291|INFO|BookinfoModel.py:150|SELECT BY ID:
+2021-10-17 21:25:21,291|INFO|BookinfoModel.py:151|Bookinfo:(10,01,《大话西游》,周星星,0,True,admin)
+2021-10-17 21:25:21,291|DEBUG|BookinfoModel.py:110|数据文件: C:\Users\86180\Desktop\乱七八糟\SmartBook12\models\Bookinfo.dbx
+2021-10-17 21:25:21,292|INFO|BookinfoModel.py:150|SELECT BY ID:
+2021-10-17 21:25:21,292|INFO|BookinfoModel.py:151|Bookinfo:(11,02,《java编程思想》,王宝强,0,False,admin)
+2021-10-17 21:25:23,876|DEBUG|SuperPage.py:32|----借阅清单----
+2021-10-17 21:25:23,876|DEBUG|SuperPage.py:33|[]
+2021-10-17 21:25:23,877|DEBUG|SuperPage.py:58|查询(S),归还图书(R)
